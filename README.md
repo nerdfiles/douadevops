@@ -11,6 +11,11 @@
 1. puppet
 2. https://github.com/hapijs/confidence
 
+## package management
+
+1. http://mixu.net/npm_lazy/
+2. bower
+
 ## virtualization
 
 1. docker?
