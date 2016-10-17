@@ -9,6 +9,7 @@
 ## configuration management
 
 1. puppet
+2. https://github.com/hapijs/confidence
 
 ## virtualization
 
