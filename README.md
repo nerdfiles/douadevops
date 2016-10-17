@@ -4,7 +4,7 @@
 
 1. https://github.com/lorenwest/node-monitor
 2. `pip install glances`
-3. see `ops.sh`
+3. see `dictionary.sh`
 
 ## configuration management
 
