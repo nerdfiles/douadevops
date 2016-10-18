@@ -73,6 +73,10 @@
 5. search engine/explorer
 6. mobile/responsive
 
+## standards
+
+1. webdevchecklist.com
+
 ## automated testing
 
 1. karma
