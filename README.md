@@ -24,7 +24,20 @@
 ## hosts
 
 1. digital ocean
-2. saucelabs (automated testing)
+
+## mobile testing
+
+1. saucelabs (automated testing)
+
+## cloud infrastructure
+
+1. openstack
+
+## nosql
+
+1. riak
+2. bedquilt
+3. firebase
 
 ## continuous deployment and release management
 
@@ -145,3 +158,7 @@
 1. user monitoring/telemetry
 2. geofencing
 3. mixpanel: funnels, segmentation, etc.
+
+## error reporting
+
+1. splunk
