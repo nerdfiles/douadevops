@@ -162,3 +162,9 @@
 ## error reporting
 
 1. splunk
+
+## management
+
+1. pivotaltracker
+2. trellocli
+3. wpcli
