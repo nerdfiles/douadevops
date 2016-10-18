@@ -86,6 +86,22 @@
 1. adb logcat
 2. xcode
 
+## http servers
+
+1. gunicorn
+
+## web frameworks
+
+1. flask
+2. django
+3. express
+
+## caching
+
+1. npm install appcache-node
+2. memcached
+3. django-varnish
+
 ## native bindings
 
 1. cordova
@@ -118,7 +134,7 @@
 
 ## load balancers for load testing
 
-1. nginx (reverse proxy)
+1. apache, nginx (reverse proxy)
 2. node.js load balancers
 
 ## content delivery network
