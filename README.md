@@ -163,6 +163,10 @@
 
 1. splunk
 
+## bug tracking
+
+1. redmine
+
 ## management
 
 1. pivotaltracker
