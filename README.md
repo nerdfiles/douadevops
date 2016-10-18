@@ -84,6 +84,46 @@
 3. jasmine
 4. critical css
 5. requirejs
+6. chai
+
+## scraping
+
+1. casperjs
+2. cheerio
+3. artoo
+4. scrapy
+
+## viz
+
+1. d3
+2. rickshaw
+3. `G = nx.DiGraph()`
+
+## graphs
+
+1. graphviz
+
+## database planning
+
+1. dbpatterns.com
+
+## networking
+
+1. networkx
+2. twisted
+
+## processing
+
+1. html-xml-utils
+2. jq
+3. beautifulsoup
+
+## terminal
+
+1. tig
+2. tmux
+3. ranger
+4. ack
 
 ## testing
 
@@ -166,6 +206,7 @@
 6. documentation availability
 7. npm install -fg styledocco (@see `--preprocessor`)
 8. http://apidocjs.com/
+9. npm install --save-dev mochawesome
 
 ## contribution
 
