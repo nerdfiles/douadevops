@@ -164,10 +164,12 @@
 ## contribution
 
 1. contrib doc
+2. style guide
+3. declarative css
 
 ## licensing
 
-1. licensing options
+1. wtfpl
 
 ## analytics
 
@@ -178,6 +180,8 @@
 ## error reporting
 
 1. splunk
+2. sudo npm i -g @sematext/logagent
+3. loggly
 
 ## bug tracking
 
