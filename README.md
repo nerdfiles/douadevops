@@ -77,6 +77,14 @@
 
 1. cordova
 
+## desktop bindings
+
+1. nw.js
+
+## microservices
+
+1. seneca
+
 ## automated resource inclusion
 
 1. internal fonts server from ux team
