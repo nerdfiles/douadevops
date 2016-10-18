@@ -164,6 +164,8 @@
 4. style guide
 5. documentation formats
 6. documentation availability
+7. npm install -fg styledocco (@see `--preprocessor`)
+8. http://apidocjs.com/
 
 ## contribution
 
