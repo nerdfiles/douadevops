@@ -39,6 +39,7 @@
 7. https://github.com/hybridgroup/cylon
 8. https://github.com/rwaldron/johnny-five
 9. OCR: https://github.com/naptha/tesseract.js
+10. postgresql: node-pg-query
 
 ## ruby
 
@@ -84,8 +85,8 @@
 ## nosql
 
 1. riak
-2. bedquilt
-3. firebase
+2. bedquilt (postgresql adaptor)
+3. firebase (angular maxxx)
 
 ## continuous deployment and release management
 
