@@ -286,10 +286,6 @@
 2. style guide
 3. declarative css
 
-## licensing
-
-1. wtfpl
-
 ## analytics
 
 1. user monitoring/telemetry
