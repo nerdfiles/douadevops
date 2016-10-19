@@ -99,7 +99,6 @@
 ## build management
 
 1. grunt tasks
-2. caching server for dependencies
 
 ## local dev
 
@@ -194,27 +193,40 @@
 
 1. gunicorn
 
-## web frameworks
+## web app frameworks
 
 1. flask
 2. django
 3. express
 
-## caching
+## offline mode
+
+1. https://github.com/hubspot/offline
+2. firebase offline: https://firebase.google.com/docs/database/web/offline-capabilities
+
+## obfuscation
+
+1. https://jscrambler.com/en/
+
+## minification
+
+1. https://github.com/gruntjs/grunt-contrib-uglify
+
+## caching for web apps
 
 1. npm install appcache-node
 2. memcached
 3. django-varnish
 
-## native bindings
+## mobile/native application bindings for hybrid web apps
 
 1. cordova
 
-## desktop bindings
+## desktop application bindings for hybrid web apps
 
 1. nw.js
 
-## microservices
+## microservices for web apps
 
 1. seneca
 
