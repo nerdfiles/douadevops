@@ -65,7 +65,7 @@
 4. eris industries
 5. zcash
 6. bitcoin
-7. [periodic table of information](https://github.com/nerdfiles/periodic-table-of-information/master/docs/images/architecture-internal.png)
+7. [periodic table of information](https://github.com/nerdfiles/periodic-table-of-information)
 
 ## hosts
 
