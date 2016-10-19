@@ -15,6 +15,36 @@
 
 1. http://mixu.net/npm_lazy/
 2. bower
+3. mvn
+4. npm install --global yarn
+5. usually curl -o- -L http://...install.sh | bash
+6. pip
+7. easy_install
+
+## local virtual envs
+
+1. virtualenv
+2. pyenv
+3. rbenv
+4. nodeenv
+
+## node
+
+1. forever
+2. pm2
+
+## ruby
+
+1. homebrew
+
+## sass
+
+1. compass
+2. [grammuelle](https://github.com/nerdfiles/grammuelle/): SASS for humans.
+
+## php
+
+1. composer
 
 ## virtualization
 
