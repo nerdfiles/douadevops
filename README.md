@@ -1,8 +1,10 @@
 # douadevops
 
-## articles
+## personal articles
 
-1. personal [articles](https://github.com/nerdfiles/douadevops/tree/master/articles)
+1. [articles](https://github.com/nerdfiles/douadevops/tree/master/articles)
+2. [is trustlessness terminating valid agreement?](https://www.researchgate.net/publication/304099721_Is_Trustlessness_Terminating_Valid_Agreement)
+3. [File Microservices and Federated, Available and Reliable Reporting Storage for a Trustless Co-located Environment](https://gitlab.com/snippets/28906)
 
 ## project management
 
