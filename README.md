@@ -32,6 +32,12 @@
 
 1. forever
 2. pm2
+3. natural
+4. simple-statistics
+5. node-wav
+6. npm install speaker --mpg123-backend=openal
+7. https://github.com/hybridgroup/cylon
+8. https://github.com/rwaldron/johnny-five
 
 ## ruby
 
@@ -50,6 +56,16 @@
 
 1. docker?
 2. vagrant?
+
+## blockchains
+
+1. tierion
+2. tendermint (cloud-like)
+3. openchain (blend of centralization, distribution and decentralization rules)
+4. eris industries
+5. zcash
+6. bitcoin
+7. [periodic table of information](https://github.com/nerdfiles/periodic-table-of-information/master/docs/images/architecture-internal.png)
 
 ## hosts
 
