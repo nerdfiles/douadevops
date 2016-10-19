@@ -2,7 +2,7 @@
 
 ## articles
 
-1. personal [articles](https://github.com/nerdfiles/douadevops/articles/)
+1. personal [articles](https://github.com/nerdfiles/douadevops/tree/master/articles)
 
 ## project management
 
