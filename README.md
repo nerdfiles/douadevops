@@ -8,7 +8,7 @@
 
 1. pivotaltracker
 2. trellocli
-3. wpcli
+3. [wpcli](https://docs.google.com/presentation/d/1iDYvmM_52ww_iB4aGMAYL_KJ1pnElAVm40c7IrZtyz8/edit?usp=sharing) (not mine)
 4. personally crafted [Functional Requirements KPI Matrix](https://docs.google.com/spreadsheets/d/1XTCTGX50pa9I0LjTmwItx8iSxSbGMMXLFoXH9O5r5RQ/edit?usp=sharing)
 5. found in the wild: [start-up cost spreadsheet](https://docs.google.com/spreadsheets/d/1Z5p694QeGmvAotDcG6N7szwvgY7k5GOu8wRzEZhEcpE/edit?usp=sharing)
 
