@@ -87,7 +87,7 @@
 
 1. riak
 2. bedquilt (postgresql adaptor)
-3. firebase (angular maxxx)
+3. firebase (angularjs and [js-data](http://www.js-data.io/))
 
 ## continuous deployment and release management
 
@@ -152,6 +152,16 @@
 ## graphs
 
 1. graphviz
+
+## front ends
+
+1. angular-material
+
+## presentation layer
+
+1. hint.css
+2. animatewithsass
+3. tachyons
 
 ## database planning
 
