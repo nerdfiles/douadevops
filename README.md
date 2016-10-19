@@ -81,6 +81,7 @@
 ## cloud infrastructure
 
 1. openstack
+2. aws (personal project for interacting with amazon sdk and services: [was](https://github.com/nerdfiles/was))
 
 ## nosql
 
@@ -233,7 +234,6 @@
 ## content delivery network
 
 1. cloudflare
-2. amazon (personal project for interacting with amazon sdk and services: [was](https://github.com/nerdfiles/was))
 
 ## dns
 
