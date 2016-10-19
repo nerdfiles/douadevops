@@ -38,6 +38,7 @@
 6. npm install speaker --mpg123-backend=openal
 7. https://github.com/hybridgroup/cylon
 8. https://github.com/rwaldron/johnny-five
+9. OCR: https://github.com/naptha/tesseract.js
 
 ## ruby
 
@@ -61,11 +62,12 @@
 
 1. tierion
 2. tendermint (cloud-like)
-3. openchain (blend of centralization, distribution and decentralization rules)
+3. openchain (blend of centralization, distribution and decentralization rules) [testnet]
 4. eris industries
 5. zcash
 6. bitcoin
 7. [periodic table of information](https://github.com/nerdfiles/periodic-table-of-information)
+8. hyperledger fabric, blockchain explorer, quorums, marketplaces, automata [testnet]
 
 ## hosts
 
