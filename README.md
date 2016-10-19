@@ -1,5 +1,13 @@
 # douadevops
 
+## project management
+
+1. pivotaltracker
+2. trellocli
+3. wpcli
+4. personally crafted [Functional Requirements KPI Matrix](https://docs.google.com/spreadsheets/d/1XTCTGX50pa9I0LjTmwItx8iSxSbGMMXLFoXH9O5r5RQ/edit?usp=sharing)
+5. found in the wild: [start-up cost spreadsheet](https://docs.google.com/spreadsheets/d/1Z5p694QeGmvAotDcG6N7szwvgY7k5GOu8wRzEZhEcpE/edit?usp=sharing)
+
 ## system and app perf and avail monitoring
 
 1. https://github.com/lorenwest/node-monitor
@@ -69,6 +77,10 @@
 6. bitcoin
 7. [periodic table of information](https://github.com/nerdfiles/periodic-table-of-information)
 8. hyperledger fabric, blockchain explorer, quorums, marketplaces, automata [testnet]
+
+## bitcoin
+
+1. personally prepared [intramarket arbitrage](https://docs.google.com/spreadsheets/d/1iyJhimdEloQ6ZJpQf8lpwIsY92aG26jtpeaKx1nKiYA/edit?usp=sharing) opportunity detector
 
 ## hosts
 
@@ -301,9 +313,3 @@
 ## bug tracking
 
 1. redmine
-
-## project management
-
-1. pivotaltracker
-2. trellocli
-3. wpcli
