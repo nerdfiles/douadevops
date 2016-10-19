@@ -306,7 +306,7 @@
 
 1. redmine
 
-## management
+## project management
 
 1. pivotaltracker
 2. trellocli
