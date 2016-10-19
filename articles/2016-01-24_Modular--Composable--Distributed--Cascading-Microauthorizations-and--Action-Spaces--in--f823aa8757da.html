@@ -1,0 +1,73 @@
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Modular, Composable, Distributed, Cascading Microauthorizations and “Action Spaces” in…</title><meta name="description" content="I’ve been thinking a bit as I implement a POC in Openchain. REST can be implemented in WebSockets. That’s what Dual API makes possible: it…"><style>
+      * {
+        font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+      }
+      html, body {
+        margin: 0;
+        padding: 0;
+      }
+      h1 {
+        font-size: 50px;
+        margin-bottom: 17px;
+        color: #333;
+      }
+      h2 {
+        font-size: 24px;
+        line-height: 1.6;
+        margin: 30px 0 0 0;
+        margin-bottom: 18px;
+        margin-top: 33px;
+        color: #333;
+      }
+      h3 {
+        font-size: 30px;
+        margin: 10px 0 20px 0;
+        color: #333;
+      }
+      header {
+        width: 640px;
+        margin: auto;
+      }
+      section {
+        width: 640px;
+        margin: auto;
+      }
+      section p {
+        margin-bottom: 27px;
+        font-size: 20px;
+        line-height: 1.6;
+        color: #333;
+      }
+      section img {
+        max-width: 640px;
+      }
+      footer {
+        padding: 0 20px;
+        margin: 50px 0;
+        text-align: center;
+        font-size: 12px;
+      }
+      .aspectRatioPlaceholder {
+        max-width: auto !important;
+        max-height: auto !important;
+      }
+      .aspectRatioPlaceholder-fill {
+        padding-bottom: 0 !important;
+      }
+      header,
+      section[data-field=subtitle] {
+        display: none;
+      }
+      </style></head><body><article class="h-entry">
+<header>
+<h1 class="p-name">Modular, Composable, Distributed, Cascading Microauthorizations and “Action Spaces” in…</h1>
+</header>
+<section data-field="subtitle" class="p-summary">
+I’ve been thinking a bit as I implement a POC in Openchain. REST can be implemented in WebSockets. That’s what Dual API makes possible: it…
+</section>
+<section data-field="body" class="e-content">
+<section name="56f1" class=" section--body section--first section--last"><div class="section-divider layoutSingleColumn"><hr class="section-divider"></div><div class="section-content"><div class="section-inner layoutSingleColumn"><h3 name="7b16" id="7b16" class="graf--h3 graf--leading graf--title">Modular, Composable, Distributed, Cascading Microauthorizations and “Action Spaces” in Cryptographic Ledgers</h3><p name="ff5e" id="ff5e" class="graf--p graf-after--h3">I’ve been thinking a bit as I implement a POC in <a href="https://docs.openchain.org" data-href="https://docs.openchain.org" class="markup--anchor markup--p-anchor">Openchain</a>. REST can be implemented in WebSockets. That’s what <a href="https://github.com/plediii/dual-protocol" data-href="https://github.com/plediii/dual-protocol" class="markup--anchor markup--p-anchor">Dual API</a> makes possible: it brings an HTTP-like protocol to WebSocket connections using a hierarchical event emitter.</p><p name="1181" id="1181" class="graf--p graf-after--p">Irrespective to the technology, <a href="https://blogs.oracle.com/craigmcc/entry/why_hateoas" data-href="https://blogs.oracle.com/craigmcc/entry/why_hateoas" class="markup--anchor markup--p-anchor">REST</a> is built-to-last: “REpresentational State Transfer, or REST, is a set of constraints that ensure a scalable, fault-tolerant and easily extendible system.”</p><p name="75c1" id="75c1" class="graf--p graf-after--p">I’ve actually been writing code to demonstrate an implementation of Openchain in the dual protocol context, such that the entire API can be made REST-ful, rather than just the /stream endpoint.</p><p name="e5c1" id="e5c1" class="graf--p graf-after--p">Ultimately this can turn all requests for Asset Definitions, ACC records, DATA records, etc into submillisecond requests that can be cache invalidated across hierarchically generated permissions such that we could practically implement “cascaded permissions”.</p><p name="fd2c" id="fd2c" class="graf--p graf-after--p">Where asset public key paths collocate permissioned actions such that broadcasts of the ledger can be distributed across keys within socket connections BEFORE hitting the Validator Node. What this means is that fault tolerance can be built into HTTP-like system within the socket BEFORE the transaction stream of the Validator node itself is even requested to post transactions.</p><p name="f05f" id="f05f" class="graf--p graf-after--p">Post Transactions can be distributed within the protocol messaging layer itself. This is “decentralize the Web.” So instead of distributing the database itself — the protocol to interact with Openchain would fundamentally be distributed within WebSocket connections. Such that the transaction ledger is only updated via a system of distributed clients within hierarchically determined domain channels which are mapped to assets (which represent permissions) in Openchain — this is what I mean by “modular, composable microauthorizations”.</p><p name="6da1" id="6da1" class="graf--p graf-after--p">A use-case is <em class="markup--em markup--p-em">distributed validations</em> across hierarchically determined domains which cascade permissions for localizable, functional validations, rather than <a href="https://forum.openchain.org/t/is-openchain-a-centralized-ledger/36" data-href="https://forum.openchain.org/t/is-openchain-a-centralized-ledger/36" class="markup--anchor markup--p-anchor">purely centralized validations</a>. Since Openchain is arguably more decentralized than Bitcoin, because organizations implement their own server instances (though Openchain assumes (1) you’ll implement your own client, whereas my project is to facilitate an elegant server-to-server Openchain network, and (1.1) that you are comfortable with client-side crypto — in JavaScript, and (1.2) offers no “persistence wallet” via LocalStorage, so write down your mnemonic!), the ideas expressed here suggest a distributed, potentially Byzantine-fault tolerant way to enable self-organizing “validation oracles” at the protocol layer for connecting clients. This way, Openchain can have Observer nodes which keep the Validator node in check, while “channels” at the protocol layer can be built to scale subsystems failure of collocated transaction stream updates before central validation. Thus, <em class="markup--em markup--p-em">discoverability and extensibility can be built into evolutionary API controls of the distributed system. </em>Adding to this, cascading, localizable, dynamic <a href="http://people.cs.vt.edu/tilevich/papers/ftrestIEEE.pdf" data-href="http://people.cs.vt.edu/tilevich/papers/ftrestIEEE.pdf" class="markup--anchor markup--p-anchor">fault-tolerance mechanisms</a> can be implemented (or embedded) to extend discovery implementation details of (JSONAPI) payloads.</p><p name="3fe7" id="3fe7" class="graf--p graf-after--p graf--last">Ultimately, these ideas should culminate into robust schema extensions to the <a href="http://schema.org/Action" data-href="http://schema.org/Action" class="markup--anchor markup--p-anchor">Action Spaces</a> of <a href="http://schema.org" data-href="http://schema.org" class="markup--anchor markup--p-anchor">Schema.Org</a>. Even further, algorithmic complexity of distributed messaging over WebSockets can be managed and measured to align the ledger-as-a-service’s “fault lines” or communicative texture by automated, heuristic models leveraging the “science of imaginary solutions” (‘Pataphysics) where a “creative encounter” engine can live within the distributed system to detect said system faults and dispatch signalling for dynamic self-repair of subsystems and back-propagation of discoverability constraints. Connecting clients contribute as weights to the oracle’s real-time confirmations of global transactional integrity and <a href="https://en.wikipedia.org/wiki/ACID" data-href="https://en.wikipedia.org/wiki/ACID" class="markup--anchor markup--p-anchor">ACID</a>-evaluations.</p></div></div></section>
+</section>
+<footer><p>By <a href="https://medium.com/@filesofnerds" class="p-author h-card">✖</a> on <a href="https://medium.com/p/f823aa8757da"><time class="dt-published" datetime="2016-01-24T19:42:38.804Z">January 24, 2016</time></a>.</p><p>Exported from <a href="https://medium.com">Medium</a> on August 2, 2016.</p></footer></article>
+
+</body></html>
