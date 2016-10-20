@@ -178,7 +178,7 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 
 ## build management
 
-1. grunt tasks
+1. my [grunt tasks](https://gist.github.com/nerdfiles/f03e76deff99eac0049583415a681e33) for LoveStamp
 
 ## local dev
 
