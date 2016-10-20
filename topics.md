@@ -328,3 +328,92 @@ Corollary: And what of a unique creation existing within a computer evolving acc
 An analogous argument can be shown by replacing the epistemic modal operators with operators mapped to analytic possibility/necessity. However, the argument is much clearer because then X1-X2 make analytic-contingent empirical claims. This form of the argument could actually provide an experimental basis for such research.
 
 Such an argument from this derivation point would show that such entities could possibly be within a computer simulation, and even know it (and we would be able to ask them — what’s it like to be in a computer simulation?), assuming that they are not capable of being anything like us which could reach anything like a post-human stage. My corollary there would be that, a fortiori, we could introspect their simulations, and ask them — how did your creators fair in creating your simulation?
+
+### If there are no such things as God or morality, why would it be wrong if I just killed someone?
+
+Yes, a good outcome must be sufficiently desirable to compensate for the allowing of the bad outcome, someone’s death. Your intention to kill them is one thing, but their actual death is not something you can technically cause since death is ultimately the cost of aging. So we have to separate your intention to kill from the facts of death; since there are no moral facts the likelihood of someone’s dying would subvert any compensation for revealing the expression to kill someone. Realizing everyone to be pro-death is a gross good that is less good than the net good of everyone dying by whatever likelihood they would have without your expression. That is to say, the universe doesn’t need your help killing us, but if you’re going to, for all you know, the outcome of expressing the intention is less good than having otherwise buggered off. It’s the same for “/eye for an eye/ is valid in all cases”, too.
+
+### Is it impossible to end slavery?
+
+#### Triangular trade of chattel slavery
+
+                   Cynicism
+                      /\
+                     /  \
+                    /    \
+                    ------
+        Surveillance      Militarization
+
+You might see a resemblance between Zooko's triangle and the Triangular trade
+of chattel slavery. That's because there is one. I'm appropriating some cool
+conceptual structure from technologists to draw some conclusions about the
+persisting reality of slavery. Cool!
+
+TTCS defines the three undesirable traits of a justice protocol identifier
+as Cynicism, Surveillance, and Militarization. The idea here is that, like
+with Zooko's triangle, there are "names" which refer to the world in some
+way; or rather, assuming the properties of Zooko's triangle are achieved,
+names will reliably refer to the world in some way. Since these names exist
+within a complicated and complex virtual ecosystem, ensuring that they refer
+to entities in the world when they should and when they should not is a
+difficult task, especially if it is to be an automated name resolution
+process that makes those assurances, and reports back to us on them.
+
+I used the term "justice protocol identifier." This is a fancy way, in the
+context of this appropriation, of saying the names of laws, policies,
+amendments, etc. More importantly, the "traits" have been switched out with
+their antonym counterparts' surjection across the analogy. In similar fashion,
+the question is What Are The Desirable Properties Of A Legal System?
+
+We might save that question for another time, or a time when more pressing
+matters are not at hand. We first need to identify just how TTCS is true,
+in that while Zooko's triangle enables a conjecture about names, TTCS is
+something that is fully realized already for the descendants of triangular
+trade.
+
+**Cynicism**: Black English and naming schemes are generally considered
+ illegitimate, brand-averse, ungrammatical, and stupid.
+
+The evidence we have is that millions of Black people deny their root cultural
+history and cultural patterns such that children are given "token names"
+to live by under White supremacy.
+
+**Surveillance**: Adherents and apologists for the legal system wittingly and
+ unwittingly excessively report on Black behavior, even if it is
+ provably mundane.
+
+Profiling is wildly accepted not only in grocery stores, but on résumés, social
+media, and generally plays an intuitive role in all forms of communication.
+Police are often primed toward a certain bias before even arriving at the scene
+of most complaints.
+
+**Militarization**: Everyday citizens to public figures are considered to possess
+ in themselves second-class citizenship to True Patriots or the
+ "Invisible Class" of the dominant culture.
+
+The evidence here is that, for example, NFL players like Colin Kaepernick are
+effectively denied their voice in the virtue of a Police Force, Armed Forces,
+etc. Essentially, a ranking of support for the 2nd Amendment gives one
+greater upward mobility than a ranking of support for the 1st Amendment.
+
+A conclusion we might draw here is that beyond denial of effective citizenship
+and nationalization, all Black life is furthermore delegitimized such that
+all undesirable traits of TTCS are practically realized. A corollary is that
+Zooko's triangle is a conjecture, so there must be, as conceptual due
+diligence requires, some reason that TTCS in fact is not a reality we live
+with today. We might think that only two components of the necessary and
+sufficient conditions expressed are impossible to resolve. Ideally, to
+achieve a minimal system of justice, all three must be resolved. We might say
+then that we must choose two and bite the bullet: but which two?
+
+Are we doomed to forever live with one of these undesirable traits unresolved
+for our legal system? All legal systems, now and in the future? What do the
+beginning steps toward a remedy look like? More importantly, how did we fall
+to a point in history such that we've actualized what conceptually stands
+as a mere conjecture about reality as we live it?
+
+And will we let this fact settle on the path to the future?
+
+#### What profession requires the most cognitive ability and intelligence?
+
+The answer is a mixed group of professions which involve varying degrees of metafaculty and psychological flow, but it is a question of occurrent or adaptive conditioning of rewards reaped from the form of intelligence: some professions benefit from occurrent flow, like Football, whereas others benefit from adaptive metafaculty, like Acting.
