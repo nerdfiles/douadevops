@@ -80,6 +80,7 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 4. python -m json.tool
 5. python -m SimpleHTTPServer
 6. rest_framework
+7. moka
 
 ## virtualization
 
