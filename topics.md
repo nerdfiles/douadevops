@@ -26,6 +26,10 @@ I’d say the meeting has a 30% probability of being IQ 50 or 150, and there’s
 
 So you should probably sit in; you might learn something.
 
+### If each day was the same, where would it start for you?
+
+Rather than What would I do?, I like to take the virtue ethical approach and ask: Who would I be? (This answer is inspired by [The Five Chinese Brothers](http://vaiden.net/five_chinese_brothers.html).)
+
 ## Design / Innovation Naturalism
 
 ### What Is Intellectual Capital?
