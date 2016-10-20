@@ -120,7 +120,7 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 
 ## mobile testing
 
-1. saucelabs (automated testing)
+1. [saucelabs](https://saucelabs.com/) (automated testing)
 
 ## android
 
