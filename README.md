@@ -3,7 +3,8 @@
 ## personal articles
 
 1. [Articles](https://github.com/nerdfiles/douadevops/tree/master/articles)
-2. [Is Trustlessness Terminating Valid Agreement?](https://bitco.in/forum/threads/is-trustlessness-terminating-valid-agreement.1225/)
+2. [Is Trustlessness Terminating Valid Agreement?](https://bitco.in/forum/threads/is-trustlessness-terminating-valid-agreement.1225/)  
+   This is a spoof article that recapitulates the philosophical problems of formal epistemology from the problem space of consensus protocols axioms.
 3. [File Microservices and Federated, Available and Reliable Reporting Storage for a Trustless Co-located Environment](https://gitlab.com/snippets/28906)
 
 ## topics
