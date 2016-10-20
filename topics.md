@@ -34,20 +34,6 @@ Separation of Concerns is about creating a clear map of CGI Modes to the URI spa
 
 Use Slim Framework for PHP and make sure your Router and CGI Modes are properly set up. It’d be easier to maintain in a shared, multi-developer collaboration if your codebase were broken up into 50–75 SLOC files, but that also depends on the nature of the project. Sometimes academic codebases need to break these rules, or sometimes your developers are refactoring.
 
-### Are there companies developing blockchain smart contracts?
-
-Yes, Rootstock, Eris Industries, Ethereum, etc. There currently is no single specification for “smart contracts,” like how HTML can be considered a Print Contract language if you think of it in the context of data being issuable from a computer node on a network to printer node on a network.
-
-Every company means something different by virtue of the fact that they are attempting to solve different sets of perceived high-level limitations when it comes to the in-mixing of Native and Network Tokenization of transaction or block data stream activity. These problems or limitations are related to transaction processing volume, aesthetic and education-related concerns for the language itself, the concern for or lack of education around Turing-Completeness, handling merge-mining or dealing with the overall problem of stochastic centralization conditions that yield non-egalitarian distributions of democratic control and opportunity over public cryptocurrency blockchains, the blocksize debate and scalability overall, the conceptual and philosophical foundations of distributed consensus and formal input languages as technology-specific instances of the problematic identified by Wittgenstein for private languages, which the philosopher argued/demonstrated are not meaningful in the usual way, and public rules (think of Wittgenstein’s private language arguments as strategies for developing rules for establishing permissions models for open or closed loop ledgers in distributed ledger technologies).
-
-Right now “developing smart contracts” comes down to “developing a product offerable using blockchain thinking” which is basically “Calculus and Distributed Computing protoscience.” Eris Industries has done the most work addressing the legal ramifications of this kind of intersection of technologies, while Ethereum has probably done the least legal research. So at the same time, the hypercompetitive atmosphere has enabled silo’ing of knowledge, a problem originally set out by W3C et al., who are now themselves as a consortium merging into their Web Payments standards proposal(s) from BIPSs. More generally speaking, the W3C standards bodies are acknowledging the need to standardize the meaning of “smart contract” from an implementation standard, insofar as the incumbent web technologies are mature enough now to enable such a collaboration.
-
-### What is the simplest implementation of the blockchain?
-
-I would say a “Chain of Trust” minimally needs to determine if it is for disintermediation versus asset tracking. In case of disintermediation, ad hoc networking must be implemented fundamentally, and in the case of asset tracking, the networking layer is a distributed design question. Disintermediation need not be fast, and asset tracking need not be non-local; these concerns ultimately reflect implementation needs for the Value Layer (in Figure 1) as it pertains to addressing two types of problems blockchains solve: linking to the supply chain by a value chain, and verifying, or evaluation, of digitally distributed activities in a context where legal implications map to culturally-determined values.
-
-Minimally, a “Value” layer speaks to both kinds of inputs by providing Serialization/Translation, Peer Collection, Invitation and Pooling, Data Copying and Replication, Blocking and Merge-mining Options versus Chaining of merklized assets, and Optimizations/Cleanup for broadcast/notification feedback loops.
-
 ### What are the popular chat applications in Django without using any other third party api's?
 
 You will find most of them on [Django Packages](https://djangopackages.org/grids/g/chat/).
@@ -55,6 +41,39 @@ You will find most of them on [Django Packages](https://djangopackages.org/grids
 ### Is it possible to do parallel programming with JavaScript in a web browser?
 
 There’s a RequireJS module for WebWorkers.
+
+### If the Matrix were to be real, in which programming language would it be coded?
+
+Atwood's Law: any application that can be written in JavaScript, will eventually be written in JavaScript.
+
+### How can I generate dynamic videos programmatically?
+
+Base64 encode the frames states of your video from PNG sequences, export the states as text files or blocked entries in a database, then iterate over the stored states by setting them to a <canvas> object while procedurally calling requestAnimationFrame.
+
+## Project management
+
+### I have a MEAN stack & HTML/CSS developer. What other development resources do I need to build a web portal, Android & iPhone apps for my business?
+
+Roles
+
+    Front end engineer           ( what you have; but do they also know front end ops? functional prototyping?),
+    Back end engineer            ( RDBMS, query development, authentication, microservices),
+    Business analyst             ( Business requirements, financial estimates),
+    DevOps engineer              ( build scripts, cookbooks),
+    Information security analyst ( BGP, ACL, SSL, certs, etc.),
+    Build master                 ( tooling and error reporting systems),
+    Mobile engineer              ( Android),
+    Mobile engineer              ( iOS),
+    Project manager              ( GANTT, SCRUM),
+    QA engineer                  ( E2E testing),
+    Transactions engineer        ( blockchain platforms, ecommerce, payments APIs),
+    Copyright specialist         ( information architecture),
+    UX designer                  ( mocks, style guides),
+    Product developer            ( wireframes, nonfunctional prototype),
+                                 ( and then to round it all off: someone whose job it is to be the actual
+    Computer scientist             usually this person is called an “architect”.)
+
+Those are the *Roles*; how many people you *need* in order to fill those roles are up to you and your budget (which means: why do you have a front end developer before you have a business analyst, if you don’t have a business analyst?). Use common sense, but don’t use *people*. It goes without saying that you are stretching people thin if you have them performing 4–5 of those roles *on a daily basis*.
 
 ### [Where can I find ideas for an angularJS project?](https://www.quora.com/Where-can-I-find-ideas-for-an-angularJS-project/answer/Aaron-Alan-Alexander)
 
@@ -78,6 +97,32 @@ We might also say that AngularJS’s documentation in the early days was so bad 
 
 Many people also look at the debate as one of aesthetic disagreement between the “NO JS IN MY HTML” (Reacters; so seemingly weird stuff like `ng-attr-*="expression"`) versus the “NO HTML IN MY JS" (Angularlogues; so basically anything that reminds us of non-MVC PHP and Java apps, where spaghetti code is frequently present) camps.
 
-### If the Matrix were to be real, in which programming language would it be coded?
+## Blockchain platforms
 
-Atwood's Law: any application that can be written in JavaScript, will eventually be written in JavaScript.
+### Can you use blockchain tech to develop an ephemeral messaging app?
+
+I think we hit peakchain about 3 months ago. That said, it seems fair to say *chains and offers like Tendermint and Eris (microchainservices?) make the app viable. Some *chains like Tierion link transactions, encrypt them, and then submit them periodically to public blockchains from an open-loop ledger. Blockchains are trains.
+
+It’s the hash of large transaction stream activity that is submitted for immutability purposes. Your nodes don’t have to store anything except preferences model data, but heck you could make the client server-less and domain-less; clients don’t need much but a few AJAX calls. You could make the client ephemerally cache-busted and obfuscated too.
+
+### Are there companies developing blockchain smart contracts?
+
+Yes, Rootstock, Eris Industries, Ethereum, etc. There currently is no single specification for “smart contracts,” like how HTML can be considered a Print Contract language if you think of it in the context of data being issuable from a computer node on a network to printer node on a network.
+
+Every company means something different by virtue of the fact that they are attempting to solve different sets of perceived high-level limitations when it comes to the in-mixing of Native and Network Tokenization of transaction or block data stream activity. These problems or limitations are related to transaction processing volume, aesthetic and education-related concerns for the language itself, the concern for or lack of education around Turing-Completeness, handling merge-mining or dealing with the overall problem of stochastic centralization conditions that yield non-egalitarian distributions of democratic control and opportunity over public cryptocurrency blockchains, the blocksize debate and scalability overall, the conceptual and philosophical foundations of distributed consensus and formal input languages as technology-specific instances of the problematic identified by Wittgenstein for private languages, which the philosopher argued/demonstrated are not meaningful in the usual way, and public rules (think of Wittgenstein’s private language arguments as strategies for developing rules for establishing permissions models for open or closed loop ledgers in distributed ledger technologies).
+
+Right now “developing smart contracts” comes down to “developing a product offerable using blockchain thinking” which is basically “Calculus and Distributed Computing protoscience.” Eris Industries has done the most work addressing the legal ramifications of this kind of intersection of technologies, while Ethereum has probably done the least legal research. So at the same time, the hypercompetitive atmosphere has enabled silo’ing of knowledge, a problem originally set out by W3C et al., who are now themselves as a consortium merging into their Web Payments standards proposal(s) from BIPSs. More generally speaking, the W3C standards bodies are acknowledging the need to standardize the meaning of “smart contract” from an implementation standard, insofar as the incumbent web technologies are mature enough now to enable such a collaboration.
+
+### What are some of the leading blockchain products?
+
+1. Enterprise software products: Eris Industries, Skuchain, Hyperledger
+2. Cloud based services (PaaS, SaaS): Tendermint
+3. Hardware / Embedded products: 21, Inc.
+4. Internet companies like Google/Facebook internally using a product: Microsoft Azure
+5. Open source software products: IPFS
+
+### What is the simplest implementation of the blockchain?
+
+I would say a “Chain of Trust” minimally needs to determine if it is for disintermediation versus asset tracking. In case of disintermediation, ad hoc networking must be implemented fundamentally, and in the case of asset tracking, the networking layer is a distributed design question. Disintermediation need not be fast, and asset tracking need not be non-local; these concerns ultimately reflect implementation needs for the Value Layer (in Figure 1) as it pertains to addressing two types of problems blockchains solve: linking to the supply chain by a value chain, and verifying, or evaluation, of digitally distributed activities in a context where legal implications map to culturally-determined values.
+
+Minimally, a “Value” layer speaks to both kinds of inputs by providing Serialization/Translation, Peer Collection, Invitation and Pooling, Data Copying and Replication, Blocking and Merge-mining Options versus Chaining of merklized assets, and Optimizations/Cleanup for broadcast/notification feedback loops.
