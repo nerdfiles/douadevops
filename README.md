@@ -156,27 +156,30 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 
 ## application architecture
 
-1. HTML5
-2. SPA
-3. Website
-4. Web App
-5. Mobile First
-6. Responsive
-7. CLI
-8. Tooling
-9. Desktop/Hybrid Apps
-10. Microservices
-11. CRM/CRS Apps
-12. Leaflet/Google Maps
-13. Infrastructure as Code
+1. CRUD/HTML5 (meaning it’s just a form; CRUD apps are HTML apps)
+2. SPA (meaning it’s got a state router/pattern matching router)
+3. Website (meaning it has HTML5 semantics plus new stuff like carousels or modal windows, and likely needs javascript; so alert icons, tags, watchers, simple search, projects (wordpress posts/pages), feeds, assets, lightboxes, access control rules, etc.; a website might need one or a few, while a web app should logically scope all digital assets)
+4. Web App (rather than just a few one off “web app”-like information contenttypes, the whole website has the configuration of an app where contextmenus and other significant information contenttypes may require advanced data structures like blockchains or trees or databases or hash tables)
+5. Mobile First (a web app project that is also inclusive of mobile constraints and capabilities when building KPI feature measurements)
+6. Responsive (includes 5, but also larger screens and devices and tables)
+7. CLI (usually always necessary for working with infrastructure as code)
+8. Tooling (inputs, activities, outputs, outcomes)
+9. Desktop/Hybrid Apps (provisioning, configuration, installation, testing configuration code, all inclusive of 1-8)
+10. Microservices (to support 1-9)
+11. CRM/CRS Apps (special cases of 10)
+12. Leaflet/Google Maps (special cases of 10)
+13. Infrastructure as Code (route/data contracts as code between holacratic groups)
 14. Blockchain Platforms Implementation
-15. Code Refactoring
+15. Code Refactoring/Optimization
 16. Messaging
 17. API Integrations
 18. Authentication Design
 19. Wallet Implementation
 20. Testnet Implementation
 21. confident configurations
+22. middleware applications
+23. logical messaging applications
+24. ephemeral messaging applications
 
 ## concentrations
 
