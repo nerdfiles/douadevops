@@ -21,7 +21,7 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 
 ## system and app perf and avail monitoring
 
-1. https://github.com/lorenwest/node-monitor
+1. [node-monitor](https://github.com/lorenwest/node-monitor)
 2. `pip install glances`
 3. see `dictionary.sh`
 
@@ -80,6 +80,8 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 8. robotics: `git clone https://github.com/rwaldron/johnny-five`
 9. OCR: `git clone https://github.com/naptha/tesseract.js`
 10. databases: postgresql: `npm install node-pg-query`
+11. npm install babel-plugin-transform-es2015-spread
+12. npm install --save-dev babel-cli babel-preset-es2015
 
 ## ruby
 
