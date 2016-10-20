@@ -122,6 +122,11 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 
 1. [saucelabs](https://saucelabs.com/) (automated testing)
 
+## load testing
+
+1. [jmeter](http://jmeter.apache.org/)
+2. [`node-load-tester`](https://github.com/jpillora/node-load-tester)
+
 ## android
 
 1. adb logcat
