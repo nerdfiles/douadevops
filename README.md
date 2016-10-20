@@ -72,6 +72,12 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 
 1. composer
 
+## python
+
+1. [postgres.py](https://github.com/gratipay/postgres.py)
+2. [web.py](http://webpy.org/)
+3. [djangopackages](https://djangopackages.org/grids/g/chat/) chat apps
+
 ## virtualization
 
 1. docker?
