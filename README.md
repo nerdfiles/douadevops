@@ -40,6 +40,17 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 6. `pip install yolk`
 7. `easy_install pip`
 
+## vim
+
+1. pathogen
+2. NERDTree
+3. Ctags
+4. CtrlP
+
+## rss
+
+1. [newsbeuter](https://github.com/akrennmair/newsbeuter)
+
 ## local virtual envs
 
 1. `virtualenv`:  
