@@ -48,16 +48,16 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 
 ## node
 
-1. forever
-2. pm2
-3. natural
-4. simple-statistics
-5. node-wav
-6. npm install speaker --mpg123-backend=openal
-7. https://github.com/hybridgroup/cylon
-8. https://github.com/rwaldron/johnny-five
+1. run tasks: forever
+2. management: pm2
+3. language processing: natural
+4. maths: simple-statistics
+5. audio: node-wav
+6. audio: npm install speaker --mpg123-backend=openal
+7. robotics: https://github.com/hybridgroup/cylon
+8. robotics: https://github.com/rwaldron/johnny-five
 9. OCR: https://github.com/naptha/tesseract.js
-10. postgresql: node-pg-query
+10. database: postgresql: node-pg-query
 
 ## ruby
 
