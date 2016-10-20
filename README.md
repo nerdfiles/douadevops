@@ -65,16 +65,17 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 
 ## ruby
 
-1. $ brew analytics off
+1. `$ `[`brew analytics off`](https://github.com/Homebrew/brew/blob/master/docs/Analytics.md)
 
 ## sass
 
-1. compass
+1. [`compass`](http://compass-style.org/help/documentation/command-line/)
 2. [grammuelle](https://github.com/nerdfiles/grammuelle/): SASS for humans.
 
 ## php
 
-1. composer
+1. [`composer`](https://getcomposer.org/)
+2. `composer require slim/slim:~2.0`
 
 ## python
 
