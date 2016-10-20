@@ -356,5 +356,5 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 
 ## keys
 
-1. $ openssl genrsa -out mykey.pem 1024
+1. $ openssl genrsa -out key.pem 1024
 2. $ ssh-keygen -t rsa -C “@contact”
