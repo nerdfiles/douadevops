@@ -81,7 +81,7 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 
 1. tierion
 2. tendermint (cloud-like)
-3. openchain (blend of centralization, distribution and decentralization rules) [testnet]
+3. [openchain](https://docs.openchain.org/en/latest/general/configuration.html) (blend of centralization, distribution and decentralization rules) [testnet]
 4. eris industries
 5. zcash
 6. bitcoin
