@@ -22,6 +22,32 @@ You need to figure out why they ‘cannot’ as opposed to ‘will not’.
 
 ## Tech stacks?
 
+### [How can I write a unit test for loading AngularJS components with RequireJS after the application Bootstrap?](https://www.quora.com/profile/Aaron-Alan-Alexander/answers/AngularJS)
+
+Check out angularAMD with Karma.
+
+### [I want to combine HTML and PHP in one page when using form data. What do I do?](https://www.quora.com/I-want-to-combine-HTML-and-PHP-in-one-page-when-using-form-data-What-do-I-do/answer/Aaron-Alan-Alexander)
+
+Putting it all in one page is fine — that’s not necessarily a problem when it comes to Separation of Concerns. What you need to bear in mind are the modes of Common Gateway Interfaces: HTTP GET, POST, OPTIONS, DELETE, etc.
+
+Separation of Concerns is about creating a clear map of CGI Modes to the URI space: REST, or bringing us closer to hypermedia as an engine of application state. You can put all of your code into one file, but it’s flouting the separation of concerns only if you are mixing in ad hoc and conditional logic to solve both of your problems of determining when to do something based on the nature of the request. For example: now my IF-THEN logic handling authentication, and then in the same block handling GET/DELETE, etc.
+
+Use Slim Framework for PHP and make sure your Router and CGI Modes are properly set up. It’d be easier to maintain in a shared, multi-developer collaboration if your codebase were broken up into 50–75 SLOC files, but that also depends on the nature of the project. Sometimes academic codebases need to break these rules, or sometimes your developers are refactoring.
+
+### Are there companies developing blockchain smart contracts?
+
+Yes, Rootstock, Eris Industries, Ethereum, etc. There currently is no single specification for “smart contracts,” like how HTML can be considered a Print Contract language if you think of it in the context of data being issuable from a computer node on a network to printer node on a network.
+
+Every company means something different by virtue of the fact that they are attempting to solve different sets of perceived high-level limitations when it comes to the in-mixing of Native and Network Tokenization of transaction or block data stream activity. These problems or limitations are related to transaction processing volume, aesthetic and education-related concerns for the language itself, the concern for or lack of education around Turing-Completeness, handling merge-mining or dealing with the overall problem of stochastic centralization conditions that yield non-egalitarian distributions of democratic control and opportunity over public cryptocurrency blockchains, the blocksize debate and scalability overall, the conceptual and philosophical foundations of distributed consensus and formal input languages as technology-specific instances of the problematic identified by Wittgenstein for private languages, which the philosopher argued/demonstrated are not meaningful in the usual way, and public rules (think of Wittgenstein’s private language arguments as strategies for developing rules for establishing permissions models for open or closed loop ledgers in distributed ledger technologies).
+
+Right now “developing smart contracts” comes down to “developing a product offerable using blockchain thinking” which is basically “Calculus and Distributed Computing protoscience.” Eris Industries has done the most work addressing the legal ramifications of this kind of intersection of technologies, while Ethereum has probably done the least legal research. So at the same time, the hypercompetitive atmosphere has enabled silo’ing of knowledge, a problem originally set out by W3C et al., who are now themselves as a consortium merging into their Web Payments standards proposal(s) from BIPSs. More generally speaking, the W3C standards bodies are acknowledging the need to standardize the meaning of “smart contract” from an implementation standard, insofar as the incumbent web technologies are mature enough now to enable such a collaboration.
+
+### What is the simplest implementation of the blockchain?
+
+I would say a “Chain of Trust” minimally needs to determine if it is for disintermediation versus asset tracking. In case of disintermediation, ad hoc networking must be implemented fundamentally, and in the case of asset tracking, the networking layer is a distributed design question. Disintermediation need not be fast, and asset tracking need not be non-local; these concerns ultimately reflect implementation needs for the Value Layer (in Figure 1) as it pertains to addressing two types of problems blockchains solve: linking to the supply chain by a value chain, and verifying, or evaluation, of digitally distributed activities in a context where legal implications map to culturally-determined values.
+
+Minimally, a “Value” layer speaks to both kinds of inputs by providing Serialization/Translation, Peer Collection, Invitation and Pooling, Data Copying and Replication, Blocking and Merge-mining Options versus Chaining of merklized assets, and Optimizations/Cleanup for broadcast/notification feedback loops.
+
 ### What are the popular chat applications in Django without using any other third party api's?
 
 You will find most of them on [Django Packages](https://djangopackages.org/grids/g/chat/).
