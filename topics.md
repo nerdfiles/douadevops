@@ -137,6 +137,10 @@ A "Web Developer" works on the web proper: develops standards, proposals, market
 
 So, Real Estate Developer :: Web Developer: If we're going to be "modest," as it were, we'd say "Web Builder."
 
+### What are the contents of SRS software Requirement Specification?
+
+Writing a Software Requirement Specification
+
 ## AngularJS
 
 ### [Where can I find ideas for an angularJS project?](https://www.quora.com/Where-can-I-find-ideas-for-an-angularJS-project/answer/Aaron-Alan-Alexander)
@@ -162,6 +166,217 @@ We might also say that AngularJS’s documentation in the early days was so bad 
 Many people also look at the debate as one of aesthetic disagreement between the “NO JS IN MY HTML” (Reacters; so seemingly weird stuff like `ng-attr-*="expression"`) versus the “NO HTML IN MY JS" (Angularlogues; so basically anything that reminds us of non-MVC PHP and Java apps, where spaghetti code is frequently present) camps.
 
 ## Blockchain platforms
+
+###
+
+<article>
+
+<header>
+<h1>Is a commodities exchange with VAT possible?</h1>
+</header>
+
+<aside>
+
+<p>
+Backing a currency with a commodity requires that a community 
+planner be assured that while transaction identity rules are 
+faithfully respected and secured, people identity requirements 
+are not sacrificed to underpin peer-to-peer digital exchange with 
+a financial intermediary.
+</p>
+
+<p>NextMarket's goal is to enable Distributed Agriculture through a 
+commodity-backed cryptocurrency, and to facilitate Resource 
+Incentivization and reduction of Consumption Inequality through 
+Asset Tracking, Ecology Management, and Regulatory Compliance 
+using blockchain technology. Overall, the philosophy of DA is 
+fair trade, governed by the following principles: </p>
+
+<ol><li>the democratization of trade policy-making</li>
+<li>the right to food sovereignty</li>
+<li>the right to resource sovereignty</li>
+</ol>
+
+<p>Ultimately, through a fair and transparent certification process 
+facilitated by blockchain technology farmers and growers can 
+at the same time ensure their own premiums based on local market 
+demand, and then supply the commodity-based currency through 
+lightweight CPU mining where they own the hardware, yet follow 
+NextMarket specifications for maintenance and upgrades.</p>
+
+<h2>Key Questions</h2>
+
+<ol><li><strong>Are P2P transaction without an intermediary possible?</strong>
+<p>Verifications are grouped such that any signing of a transaction only proves that a  
+member of the group is allowed to be a signer of the transaction. Each member of the group  
+will own her own private key that is part of that group. At the same time, her key 
+might be used in any number of groups. The consequence is that signing transactions 
+only proves that the members (their keys) are organized in a group, but it is not possible 
+to determine which key, in particular, actually signed the transaction for verification. 
+Ultimately, the "intermediary" is the ontological distinction of "group membership" which 
+is mathematically enforced by our secret key grouping strategy.</p></li>
+<li><strong>How is unique identity modeled? Non-duplicated? Post-life identity?</strong>
+<p>In our system, People, Content (like Software that is automated for special purposes), Machines, 
+and Organizations (explicitly) are all on the same level; they can all be participants  
+in "groups" to be members in the signing of transactions. When an identity signs a transaction  
+we generate a disposable private key, the organized group of member public keys, and an 
+isomorphic key image (that is congruent to our system's state).</p></li>
+<li><strong>Are non-monetary and monetary transactions possible? Commodity-to-Commodity Contracts?</strong>
+<p>We believe that a certification process or a non-technological agreement must be in order  
+to determine the Premiums, Licensing, and Structure of non-monetary transactions. Before issuance 
+of an asset, there must be a purposeful reason why the asset is included in the ledger. So while 
+these types of transactions are possible, where users trade assets, this first requires
+non-technological agreements about why, for instance N number of assets might be included.  
+We want for there to be a 1-1 parity of what is in the ledger to exist in the physical world.  
+This is not a hard problem, but one that must start with regulation and agreement. Users post their 
+available assets to the ledger, and, like from the Fair trade movement's example (FLO), typically 
+a certification and on-boarding process is antecedent.</p></li>
+<li><strong>How is stakeholder and staff voting, opinion polling, R&D, Process Management possible?</strong>
+<p>Our goal is to introduce lightweight mobile-ready and kiosk-ready interfaces and information  
+exchanges to enable users to participate in their self-organizing events. Generally, "vote",  
+"opinion", "proposal", "abstract" are normalized such that they are all treated like assets  
+within our system. From a system point of view, it is all "proposition compute" where 
+"proposition" is a simple or complex statement that can be agreed upon as a digital 
+representation within the ledger. Our system's ledger capabilities distributed 
+(let's ignore "decentralized" since that is a loaded term), and "smart contract" 
+says too much. Our system is focused on global and local executions of "proposition compute" 
+(statements) that reflect the goal of the organization of key bearers who participate in 
+the transaction. Our due diligence is such that we do not mix up 
+transaction requirement rules with people identity requirements.</p></li>
+</ol>
+
+<h2>Existing Problems</h2>
+
+<ol>
+<li><p>Unequal exchange due to productivity differentials:  
+"On the world market, the labour of a country with a higher 
+productivity of labour is valued as more intensive, so that 
+the product of one day’s work in such a nation is exchanged 
+for the product of more than a day’s work in an 
+underdeveloped country." (71-2. Late Capitalism. Ernest 
+Mandel. 1975.)</p></li>
+<li><p>Dominance of technology control and capital; and 
+pace of invention and adoption, accessibility to information 
+commodities and exchanges; access to resources; discrepancies 
+of information; weapons of mass destruction reduce overall 
+buying power of smaller countries based on "earth-based" 
+production cycles.</p></li>
+<li><p>Super-profits are extracted from smaller, developing countries 
+merely focused on subsistence production cycles.</p></li>
+<li><p>Declining trade power of developing; dependency on governmental 
+"war power" to underpin trade relations and trade opportunity 
+("petrodollar") rather than actual consumer price index (CPI) 
+and material abundance in non-military assets and resources. 
+War is not a true measure of productivity, and income measurement 
+alone (income inequality) really only reflects military success, 
+not actual productivity (culture, music, trade, invention, ideas).</p>
+</li>
+</ol>
+
+<h2>Distributed Agriculture Ontology</h2>
+
+<ol><li>Producers to mint their own money on commodity CPUs (NextCoin)</li>
+<li>Banks/Consumers to accept at full dollar value, 
+differentiating the businesses as one supporting the 
+notes' values of ecology, local economy, produce narrative, 
+sustainability, direct trade, and community, and creating a 
+five percent discount incentive for those using the currency.</li>
+<li>Retailers then broker exchanges for goods and services 
+from other participating businesses, make change (breakdowns),
+pay salaries, or support local non-profits, increasing the 
+local economic multiplier effect and keeping value 
+recirculating in the region</li>
+
+<h2>Typical Producer/Broker/ Flow</h2>
+
+<p>Grower Yury annually produces an average crop yield of 
+100,000 pounds of cabbage with a wholesale value of $50,000. </p>
+
+<p>Grower Yury will create Forward Contract and list that Contract 
+on the NextExchange. Contract totals a value of $50,000 worth of 
+produced goods redeemable for a discounted enforced future sale. </p>
+
+<p>Retail Grocers and Individuals can purchase as much of 
+Yury's Contracts as they wish, and broker deals. The funds Yury 
+receives for his future crop will be used by Yury to purchase 
+the goods and services he needs to produce the crop.</p>
+
+<p>The purchasers of the Contracts can use the Contracts as 
+stand-ins for rubles for whatever they want to buy in the 
+supply chain. When the crop comes in, Yury’s cabbages 
+are distributed through the supply chain to the grocers and 
+individuals who are controlling the Contracts at the 
+redemption date.</p>
+
+<p>Blockchain-powered Forwards Contracts and non-equity 
+crowdfunding reduce fees that exist as barriers and open up 
+non-equity investing in Farmers to all people regardless of 
+being non-accredited investors, accredited investors, or 
+businesses.</p>
+
+<h2>Payment Network</h2>
+
+<p><a href="http://nexttech.io/page/periodic-table-of-information/transmedia">Transmedia Payment System</a> which is less expensive for Retailers
+interchange fees for every transaction.</p>
+
+<h2>Historic/al Examples</h2>
+
+<h3>BerkShares</h3>
+
+<ol>
+<li>>370 businesses</li>
+<li>8 branches of 3 different banks</li>
+<li>>70 non-profits</li>
+</ol>
+
+<h2>Fair Trade Revisited</h2>
+
+<ol><li>Premiums determined by production capabilities.</li>
+<li>Bi-annual inspections for certain time to appraise 
+goods and practices.</li>
+<li>FLO Standards (concurrency-focused <a href="http://nexttech.io/page/periodic-table-of-information/hypermedia">hypermedia-ready blockchain</a> program executions over Premiums and Democratic Voting Practices)can be incorporated into regulatory <a href="https://www.mtholyoke.edu/courses/sgabriel/FairTrade/what.htm#FTStandards">blockchain monitoring system</a>:  
+<ul><li>Minimum Pricing Agreements for Contracts; also known as the "Price Floor" per commodity</li>
+<li>Determination of Social Premiums (during Bull Market scenarios premiums go to growers/producers in need)</li>
+<li>One Person, One Vote for Coalition/Coop Farmers </li>
+<li>Reduce Competition, Promote Cooperation</li>
+<li>Identify and eliminate sweatshop conditions and child labor</li>
+<li>Eliminate "auction houses" and transportation middlemen where necessary</li>
+<li>Blockchain enables long-term trade relations; Contracts are visible and auditable without
+traceable payments (farmers can determine income)</li>
+<li>Blockchain enables better market information (where fair trade auditors can be replaced 
+with mobile devices or kiosks that give access to consensus-based immutable records)</li>
+</ul>
+</li>
+</ol>
+
+<h2>Goals</h2>
+
+<ol>
+<li>Foster collaboration</li>
+<li>Strengthen local economy</li>
+<li>Raise awareness</li>
+<li>Economic determinism and self-sufficiency</li>
+<li>Re-circulation</li>
+<li>Inspire entrepreneurship</li>
+<li>Replace imports</li>
+<li>Locally command exports</li>
+<li>Fewer if no GMO and contaminants, pesticides, and illegal practices</li>
+<li>Local practices are improved</li>
+<li>Fewer fossil fuels in production processes</li>
+<li>Reduced costs on packaging</li>
+<li>Better assessment and alignment with localization</li>
+<li>Mitigate Payment Network failure and non-compliance; see <a href="http://tacticalinvestor.com/paypal-shutdown-turkey-devastating-small-businesses/">Paypal, 2016</a></li>
+<li>Local payment network on Open source hardware and source code</li>
+<li>Higher availability network</li>
+<li>Reduce inherently excessive printing of unreliable/infrequently used notes (for example: $1,000 notes)</li>
+<li>National sovereignty; Self-sovereign identity of Growers/Farmers/Producers</li>
+</ol>
+
+</aside>
+
+<div></div>
+
+</article>
 
 ### I am exploring blockchain tech, specifically Coinprism's Openchain. What are advantages and disadvantages of centralized validation?
 
