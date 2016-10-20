@@ -28,17 +28,17 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 ## configuration management
 
 1. puppet+grunt
-2. https://github.com/hapijs/confidence
+2. [confidence](https://github.com/hapijs/confidence)
 
 ## package management
 
-1. http://mixu.net/npm_lazy/
-2. bower
-3. mvn
-4. npm install --global yarn
-5. usually curl -o- -L http://...install.sh | bash
-6. pip
-7. easy_install
+1. [npm_lazy](http://mixu.net/npm_lazy/)
+2. puppet+[bower](https://bower.io/)
+3. `puppet module install maestrodev-maven`
+4. `npm install --global yarn`
+5. usually `curl -o- -L http://...install.sh | bash`
+6. `pip install yolk`
+7. `easy_install pip`
 
 ## local virtual envs
 
