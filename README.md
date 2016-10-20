@@ -29,7 +29,7 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 
 1. [`puppet`](https://forge.puppet.com/)+`grunt`
 2. [confidence](https://github.com/hapijs/confidence)  
-   Creative templates to filter Peer Controllers in cjdns.
+   Creative JSON templates to filter Peer Controllers in cjdns.
 
 ## networking
 
