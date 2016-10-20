@@ -156,12 +156,40 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 
 ## application architecture
 
-1. spa
-2. website
-3. web application
-4. blog/journal
-5. search engine/explorer
-6. mobile/responsive
+1. HTML5
+2. SPA
+3. Website
+4. Web App
+5. Mobile First
+6. Responsive
+7. CLI
+8. Tooling
+9. Desktop/Hybrid Apps
+10. Microservices
+11. CRM/CRS Apps
+12. Leaflet/Google Maps
+13. Infrastructure as Code
+14. Blockchain Platforms Implementation
+15. Code Refactoring
+16. Messaging
+17. API Integrations
+18. Authentication Design
+19. Wallet Implementation
+20. Testnet Implementation
+21. confident configurations
+
+## concentrations
+
+1. natural language tooling
+2. static analysis
+3. code generation
+4. graph theories
+5. application design
+6. automation
+7. pair programming
+8. remote debugging
+9. release management
+10. social analytics (Mixpanel, etc.)
 
 ## standards
 
