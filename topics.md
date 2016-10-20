@@ -1,5 +1,7 @@
 # Topics
 
+Right or wrong, I said it.
+
 ## Career
 
 ### How do I land a job as a developer?
