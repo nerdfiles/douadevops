@@ -27,7 +27,7 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 
 ## configuration management
 
-1. puppet
+1. puppet+grunt
 2. https://github.com/hapijs/confidence
 
 ## package management
