@@ -184,8 +184,8 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 
 1. json-server
 2. local app server (express? apache?)
-3. personally crafted [schema.org search](https://github.com/nerdfiles/schemas)
-4. personally crafted [lorem ipsum generation](https://github.com/nerdfiles/clipsum)
+3. personally crafted [schema.org search](https://github.com/nerdfiles/schemas) (under development)
+4. personally crafted [lorem ipsum generation](https://github.com/nerdfiles/clipsum) (under development)
 
 ## application infrastructure
 
