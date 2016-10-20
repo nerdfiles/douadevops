@@ -110,6 +110,9 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 1. riak
 2. bedquilt (postgresql adaptor)
 3. firebase (angularjs and [js-data](http://www.js-data.io/))
+4. elasticsearch
+5. mongodb
+6. couchdb
 
 ## continuous deployment and release management
 
