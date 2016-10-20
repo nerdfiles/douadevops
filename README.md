@@ -322,11 +322,11 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 
 ## bug tracking
 
-1. redmine
+1. [redmine](http://www.redmine.org/)
 
 ## e-mail
 
-1. dovecot
+1. [dovecot](http://dovecot.org/)
 2. postfix
 
 ## messaging
