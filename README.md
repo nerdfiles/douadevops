@@ -328,3 +328,7 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 
 1. dovecot
 2. postfix
+
+## messaging
+
+1. node-xmpp
