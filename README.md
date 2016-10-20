@@ -351,3 +351,10 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 ## chat
 
 1. irssi
+
+1. openssl
+
+## keys
+
+1. $ openssl genrsa -out mykey.pem 1024
+2. $ ssh-keygen -t rsa -C “@contact”
