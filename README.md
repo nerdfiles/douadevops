@@ -357,4 +357,6 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 ## keys
 
 1. $ openssl genrsa -out key.pem 1024
-2. $ ssh-keygen -t rsa -C “@contact”
+2. $ openssl pkcs8 -topk8 -inform PEM -outform PEM -in merchant-key.pem -nocrypt
+3. $ ssh-keygen -m PKCS8 -f pubkey.pem -i
+4. $ ssh-keygen -t rsa -C “@contact”
