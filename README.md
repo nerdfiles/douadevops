@@ -382,7 +382,6 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 ## chat
 
 1. irssi
-2. openssl
 
 ## keys
 
