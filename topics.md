@@ -30,6 +30,16 @@ So you should probably sit in; you might learn something.
 
 Rather than What would I do?, I like to take the virtue ethical approach and ask: Who would I be? (This answer is inspired by [The Five Chinese Brothers](http://vaiden.net/five_chinese_brothers.html).)
 
+### Was Einstein really that smart? Couldn't it be he was insanely creative, mixed with a greatly above average intelligence (but not necessarily genius)?
+
+The guy was generally considered to lack special academic qualities as a youth. Was he a child prodigy? No. Do people consider only child prodigies to be geniuses? Can we really separate creativity from genius in the first place? By what rationale or algorithm are you conceptually dissecting the notion?
+
+Is there any benefit from saying, “Well, he wasn’t a genius, but he did found some of the most brilliant theories on reality and gravity and he hung out with Gödel and people quote him incessantly and he was still probably insanely, super, incredibly smart”?
+
+Einstein was an opsimath, plain and simple. “Genius” is also a term that bears historical connotations, and conveys meaning in terms of a timeline — what we could expect from persons, on average, given certain prevailing trends.
+
+Often times when people doubt genius, what is going on is a poverty of linguistic resource to more fully express the subtleties of what is real.
+
 ## Design / Innovation Naturalism
 
 ### What Is Intellectual Capital?
@@ -286,6 +296,10 @@ All this is to say is that the question of having value in the non-evaluative se
 ### What is the fundamental difference between analytic philosophy and continental philosophy - and is it a helpful distinction?
 
 Continental Philosophers can be identified by the types of strategies they pursue to clarify metaphysical problems; whereas Analytic Philosophers privilege epistemological studies, Continental Philosophers prefer phenomenological studies of metaphysical questions, like: What is consciousness? Can it be scoped and relegated to linguistic and mathematical tools which "measure" meaning? Are "meanings" available to our knowledge, or are meanings locked away behind the "stream of conversation"? Whereas Analytic philosophers focus on practices of foundationalism and hierarchical concept structures, defended by assertions of isomorphy with metaphors that elucidate set theory, Continental Philosophers engage in "theory" as it is embedded in façan de parler which are decentered and traceable only within the context of subject-qua-being within the immanent unfolding of narratological evidence.
+
+### Someone is holding a gun to your head. They ask you your religion. What do you say?
+
+God does not play Russian Roulette.
 
 ### Are we living in a simulation?
 
