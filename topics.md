@@ -1,5 +1,12 @@
 # Topics
 
+## Career
+
+### How do I land a job as a developer?
+
+1. [Gun.io Writing Challenge](https://docs.google.com/document/d/1AJfa0Qi7b7EbIz4A6IdukDD_KkQ_0wS3D3XKFlQk1fY/edit?usp=sharing)
+2. [Study for the Technical Interview](https://gist.githubusercontent.com/TSiege/cbb0507082bb18ff7e4b/raw/f8361f17012860422752496b9439fa2920db2c8e/The%2520Technical%2520Interview%2520Cheat%2520Sheet.md)
+
 ## Design / Innovation Naturalism
 
 ### What Is Intellectual Capital?
@@ -22,6 +29,10 @@ You need to figure out why they ‘cannot’ as opposed to ‘will not’.
 
 ## Tech stacks?
 
+### What does "the goal is code that is economical, not dense" mean?
+
+Code that is complex but not complicated. Code that is lawful good rather than chaotic evil.
+
 ### [How can I write a unit test for loading AngularJS components with RequireJS after the application Bootstrap?](https://www.quora.com/profile/Aaron-Alan-Alexander/answers/AngularJS)
 
 Check out angularAMD with Karma.
@@ -30,7 +41,11 @@ Check out angularAMD with Karma.
 
 Try angular-cli. Or yeoman in general. Mix recipes of what you need: js-data, systemjs, leaflet, etc.
 
-Or follow MOVE: model, operation, view, event. Backbone then feels more like a lib. Events, Collections, Views, Routers work well in this, instead of MV*.
+Or follow MOVE: model, operation, view, event. Backbone then feels more like a lib. Events, Collections, Views, Routers work well in this, instead of MV\*.
+
+### Should I start learning Angular 2 or continue using Angular 1.5.x?
+
+The patterns of MV* are a bit older and different from the Model-Operation-Component-Presentation pattern. Less magic base classism.
 
 ### [I want to combine HTML and PHP in one page when using form data. What do I do?](https://www.quora.com/I-want-to-combine-HTML-and-PHP-in-one-page-when-using-form-data-What-do-I-do/answer/Aaron-Alan-Alexander)
 
@@ -414,6 +429,18 @@ as a mere conjecture about reality as we live it?
 
 And will we let this fact settle on the path to the future?
 
-#### What profession requires the most cognitive ability and intelligence?
+### What profession requires the most cognitive ability and intelligence?
 
 The answer is a mixed group of professions which involve varying degrees of metafaculty and psychological flow, but it is a question of occurrent or adaptive conditioning of rewards reaped from the form of intelligence: some professions benefit from occurrent flow, like Football, whereas others benefit from adaptive metafaculty, like Acting.
+
+### What are the advantageous of omniscience over super human intelligent?
+
+Self-versioning, cognition sharding, ultimistic reasoning, etc.
+
+### Are there any criticisms against Spinoza's God?
+
+Einstein made the most astute observation of all, that God does not play dice. The problem is that while photons are virtual particles, “particle" has a contextual meaning that is conditioned by the totality of all subjective experiences with respect to a non-local description of the quantum state; so then a virtualizer is a kind of entity that conforms to a state description of a randomized process involving the maximum occupation positions of particles in a constructible Fock space corresponding to any given mental state. So the point is that chances are not subject to chance, regardless of the number of minds available at the event of measurement. The criticism might be, then, that God lacks nothing physical and so wills nothing unphysical, a configuration of the state of dice that is ever falsifiable.
+
+By Spinoza, God’s Intellect is the same as its Will. That is, Nature’s laws are the same as God’s attributes. Spinoza called substance Deus sive Natura: God or Nature — not Nature instead of God, and certainly not God or, rather, Nature.
+
+Spinoza’s epistemology is about the relationship of fields and configurations; will and intellect expressions that refer to these conceptions of reality. It does not actually even make sense what you are saying — if something substitutes or stands in for something else, that does not mean the /something else/ does not exist. Your comments are not even internally consistent, so that leads me to believe that you’re subtly conveying to me that you wish to depart into a description on what you know of this matter.
