@@ -127,12 +127,12 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 
 ## nosql
 
-1. riak
+1. [riak](http://docs.basho.com/riak/kv/2.1.4/)
 2. [bedquilt](https://bedquiltdb.readthedocs.io/en/latest/) (postgresql adaptor)
-3. firebase (angularjs and [js-data](http://www.js-data.io/))
-4. elasticsearch
-5. mongodb
-6. couchdb
+3. [firebase](https://www.firebase.com/docs/web/guide/structuring-data.html#section-join) (angularjs and [js-data](http://www.js-data.io/))
+4. [elasticsearch](https://www.elastic.co/blog/found-elasticsearch-as-nosql)
+5. [mongoose](http://mongoosejs.com/index.html): validation, logical callbacks, schemas, type casting, query building for MongoDB models
+6. [couchdb et al](https://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis)
 
 ## sql
 
