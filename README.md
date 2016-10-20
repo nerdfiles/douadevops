@@ -6,6 +6,10 @@
 2. [Is Trustlessness Terminating Valid Agreement?](https://bitco.in/forum/threads/is-trustlessness-terminating-valid-agreement.1225/)
 3. [File Microservices and Federated, Available and Reliable Reporting Storage for a Trustless Co-located Environment](https://gitlab.com/snippets/28906)
 
+## topics
+
+See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
+
 ## project management
 
 1. pivotaltracker
