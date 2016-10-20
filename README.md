@@ -114,6 +114,12 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 5. mongodb
 6. couchdb
 
+## sql
+
+1. mysql
+2. postgresql
+3. [cockroach](https://github.com/cockroachdb/cockroach)
+
 ## continuous deployment and release management
 
 1. travis-ci
