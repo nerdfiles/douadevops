@@ -77,6 +77,8 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 1. [postgres.py](https://github.com/gratipay/postgres.py)
 2. [web.py](http://webpy.org/)
 3. [djangopackages](https://djangopackages.org/grids/g/chat/) chat apps
+4. python -m json.tool
+5. python -m SimpleHTTPServer
 
 ## virtualization
 
