@@ -111,6 +111,12 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 ## hosts
 
 1. digital ocean
+2. cpanel
+3. webfaction
+4. [rackspace](http://www.rackspace.com/cloud/servers/)
+5. amazon [ec2](http://aws.amazon.com/ec2/)
+6. [linode](https://www.linode.com/)
+7. [hetzner](http://www.hetzner.de/en/)
 
 ## mobile testing
 
