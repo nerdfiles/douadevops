@@ -42,23 +42,26 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 
 ## local virtual envs
 
-1. virtualenv
-2. pyenv
-3. rbenv
-4. nodeenv
+1. `virtualenv`:  
+   Be sure to set up `export $WORKON_HOME=$SOME_VIR_DIR`.
+2. `pyenv`:  
+   Fine on Ubuntu; often disappointing on OS X.
+3. `rbenv`:  
+   Works well with `compass`.
+4. `nodeenv`
 
 ## node
 
-1. run tasks: forever
-2. management: pm2
-3. language processing: natural
-4. maths: simple-statistics
-5. audio: node-wav
-6. audio: npm install speaker --mpg123-backend=openal
-7. robotics: https://github.com/hybridgroup/cylon
-8. robotics: https://github.com/rwaldron/johnny-five
-9. OCR: https://github.com/naptha/tesseract.js
-10. database: postgresql: node-pg-query
+1. run tasks: [`forever`](https://github.com/foreverjs/forever)
+2. proc management: [pm2](https://github.com/Unitech/pm2)
+3. language processing: [natural](https://github.com/NaturalNode/natural)
+4. maths: [simple-statistics](https://github.com/simple-statistics/simple-statistics)
+5. audio: [node-wav](https://github.com/TooTallNate/node-wav)
+6. audio: `npm install speaker --mpg123-backend=openal`
+7. robotics: `git clone https://github.com/hybridgroup/cylon`
+8. robotics: `git clone https://github.com/rwaldron/johnny-five`
+9. OCR: `git clone https://github.com/naptha/tesseract.js`
+10. databases: postgresql: `npm install node-pg-query`
 
 ## ruby
 
