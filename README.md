@@ -291,7 +291,7 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 
 ## desktop application bindings for hybrid web apps
 
-1. nw.js
+1. nw.js (i’m currently working on an AngularJS app using)
 
 ## microservices for web apps
 
