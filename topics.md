@@ -2,6 +2,10 @@
 
 ## Design / Innovation Naturalism
 
+### What Is Intellectual Capital?
+
+Intellectual Capital is the combined value of one’s aesthetic, scientific, economic, and psychic knowledge as potential and as actual indicators or markers of cultural mobility. IC for an organization is the result of cybernetic, or distributive, conditioning of communications channels within the organization to maximize connectivity between dynamically pairing productive agents.
+
 ### How should I go about innovation?
 
 Define the problem in terms of Inputs, Activities, Outputs, Outcomes, and then model some real world problem that has not been solved. Every event in the world has causes (inputs) and effects (outputs) where processes (activities) yield results (outcomes).
@@ -15,6 +19,8 @@ From this you can enable a virtual construction set of abstractions and operatio
 Reduce the number of developers actively engaging the project, then take them aside retrain, reexplain, reframe, and then reincentivize for them to fix the problems and influence future development in the direction you want. This is a “huddle" approach; you want to leave some devs to manage minor developments, but when you hit churn, you need to huddle and minimally re-strategize.
 
 You need to figure out why they ‘cannot’ as opposed to ‘will not’.
+
+## Tech stacks?
 
 ### What are the popular chat applications in Django without using any other third party api's?
 
