@@ -22,8 +22,8 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 ## system and app perf and avail monitoring
 
 1. [node-monitor](https://github.com/lorenwest/node-monitor)
-2. `pip install glances`
-3. see `dictionary.sh`
+2. `$ pip install glances`
+3. see `$ less ./dictionary.sh`
 
 ## configuration management
 
