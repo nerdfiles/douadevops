@@ -46,6 +46,7 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 2. NERDTree
 3. Ctags
 4. CtrlP
+5. spf13
 
 ## rss
 
