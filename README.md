@@ -97,10 +97,10 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 
 1. tierion
 2. tendermint (cloud-like)
-3. [openchain](https://docs.openchain.org/en/latest/general/configuration.html) (blend of centralization, distribution and decentralization rules) [testnet]
-4. eris industries
-5. zcash
-6. bitcoin
+3. personally implemented microservices and devops with [openchain](https://docs.openchain.org/en/latest/general/configuration.html) (blend of centralization, distribution and decentralization rules) [testnet]
+4. eris industries (cloud-like)
+5. cloud mine with [zcash](https://z.cash/)
+6. [bitcoin](https://github.com/bitcoin/bitcoin/pull/8035) has merged HD wallets into core client
 7. [periodic table of information](https://github.com/nerdfiles/periodic-table-of-information)
 8. hyperledger fabric, blockchain explorer, quorums, marketplaces, automata [testnet]
 
