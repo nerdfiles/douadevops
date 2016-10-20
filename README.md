@@ -100,6 +100,16 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 
 1. saucelabs (automated testing)
 
+## android
+
+1. adb logcat
+2. genymotion
+3. avd manager
+
+## apple
+
+1. xcode
+
 ## cloud infrastructure
 
 1. openstack
@@ -214,11 +224,6 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 2. tmux
 3. ranger
 4. ack
-
-## testing
-
-1. adb logcat
-2. xcode
 
 ## http servers
 
