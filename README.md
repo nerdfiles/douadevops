@@ -333,3 +333,7 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 
 1. node-xmpp
 2. node-webrtc
+
+## chat
+
+1. irssi
