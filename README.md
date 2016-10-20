@@ -65,7 +65,7 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 
 ## ruby
 
-1. homebrew
+1. $ brew analytics off
 
 ## sass
 
