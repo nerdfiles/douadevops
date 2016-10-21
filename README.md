@@ -91,7 +91,7 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 ## sass
 
 1. [`compass`](http://compass-style.org/help/documentation/command-line/)
-2. [grammuelle](https://github.com/nerdfiles/grammuelle/): SASS for humans.
+2. [grammuelle](https://github.com/nerdfiles/grammuelle/): SASS for humans. (wip)
 
 ## php
 
@@ -116,7 +116,7 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 
 ## blockchains
 
-0. personally crafted Node.js CLI and [proofofexistence API](https://proofofexistence.com/developers#sha256)
+0. personally crafted Node.js [CLI](https://github.com/nerdfiles/douadevops) for proofofexistence.com's API (wip)
 1. tierion
 2. tendermint (cloud-like)
 3. personally implemented microservices and devops with [openchain](https://docs.openchain.org/en/latest/general/configuration.html) (blend of centralization, distribution and decentralization rules) [testnet]
