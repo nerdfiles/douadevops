@@ -30,6 +30,7 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 1. [`puppet`](https://forge.puppet.com/)+`grunt`
 2. [confidence](https://github.com/hapijs/confidence)  
    Creative JSON templates to filter Peer Controllers in cjdns.
+3. interactive commandline with [vorpal](http://vorpal.js.org/)
 
 ## networking
 
