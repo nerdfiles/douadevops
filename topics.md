@@ -22,7 +22,7 @@ Apply an inverse probability classification where T is the average total possibl
     Prob(M | Q) = N2
     Prob(M | R) = N3
 
-    Prob(P | M) = Prob(P) Prob(M | P) / Prob(P) Prob(M | P) + Prob(Q) Prob(M | Q) …
+    Prob(P | M) = Prob(P) Prob(M | P) / ( Prob(P) Prob(M | P) + Prob(Q) Prob(M | Q) … )
 
 I’d say the meeting has a 30% probability of being IQ 50 or 150, and there’s a 40% chance the meeting’s IQ will be 100.
 
