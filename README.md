@@ -172,6 +172,8 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 4. [elasticsearch](https://www.elastic.co/blog/found-elasticsearch-as-nosql)
 5. [mongoose](http://mongoosejs.com/index.html): validation, logical callbacks, schemas, type casting, query building for MongoDB models
 6. [couchdb et al](https://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis)
+7. pottery: [redis for humans](https://github.com/brainix/pottery)
+8. newsfeeds: [stream-framework](https://github.com/tschellenbach/Stream-Framework)
 
 ## sql
 
