@@ -277,7 +277,47 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 
 1. graphviz
 
-## front ends
+## js front end frameworks
+
+1. angular
+2. backbone
+3. ember
+4. riotjs
+
+## js libs
+
+1. jquery
+2. zepto
+3. sizzle
+
+## js crypto
+
+1. [seifnode](https://github.com/paypal/seifnode)
+
+## js orm
+
+1. breeze
+2. js-data
+
+## css frameworks
+
+1. foundation
+2. bootstrap
+3. skeleton
+
+## sass frameworks
+
+1. compass
+2. bourbon
+
+## css+
+
+1. post-processors
+2. sass
+3. less
+4. absurdjs
+
+## front end design
 
 1. angular-material
 
@@ -341,6 +381,7 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 ## mobile/native application bindings for hybrid web apps
 
 1. cordova
+2. ionic (works great with angularjs)
 
 ## desktop application bindings for hybrid web apps
 
