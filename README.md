@@ -282,21 +282,22 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 1. angular (view engine)
 2. backbone
 3. ember
-4. riotjs
-5. vue.js
+4. [riotjs](http://riotjs.com/)
+5. [vue.js](https://github.com/vuejs/awesome-vue)
 
 ## js maps libs
 
 1. [leaflet](http://leafletjs.com/)
-2. google maps
-3. openstreetmaps
+2. [google maps controls](https://developers.google.com/maps/documentation/javascript/controls)
+3. [openstreetmaps](http://wiki.openstreetmap.org/wiki/OpenLayers_Simple_Example)
 
 ## js libs
 
-1. jquery
-2. zepto
-3. sizzle
-4. moment
+1. [jqlite](https://github.com/jstools/jqlite)
+2. [zepto](http://zeptojs.com/)
+3. [sizzle](https://sizzlejs.com/)
+4. [moment](http://momentjs.com/)
+5. [lodash](https://lodash.com/docs/)
 
 ## js crypto
 
