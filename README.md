@@ -275,7 +275,7 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 
 ## graphs
 
-1. graphviz with dotty
+1. graphviz with `dotty`
 
 ## js front end frameworks
 
