@@ -279,20 +279,30 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 
 ## js front end frameworks
 
-1. angular
+1. angular (view engine)
 2. backbone
 3. ember
 4. riotjs
+5. vue.js
+
+## js maps libs
+
+1. [leaflet](http://leafletjs.com/)
+2. google maps
+3. openstreetmaps
 
 ## js libs
 
 1. jquery
 2. zepto
 3. sizzle
+4. moment
 
 ## js crypto
 
 1. [seifnode](https://github.com/paypal/seifnode)
+2. cryptojs
+3. bitcore
 
 ## js orm
 
