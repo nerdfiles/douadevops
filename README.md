@@ -271,11 +271,11 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 
 1. d3
 2. rickshaw
-3. `G = nx.DiGraph()`
+3. `G = nx.DiGraph()` (directed graphs in networkx)
 
 ## graphs
 
-1. graphviz
+1. graphviz with dotty
 
 ## js front end frameworks
 
