@@ -4,30 +4,6 @@ Right or wrong, I said it.
 
 ## Career
 
-<!--### How do I land a job as a developer?
-
-1. [Gun.io Writing Challenge](https://docs.google.com/document/d/1AJfa0Qi7b7EbIz4A6IdukDD_KkQ_0wS3D3XKFlQk1fY/edit?usp=sharing)
-2. [Study for the Technical Interview](https://gist.githubusercontent.com/TSiege/cbb0507082bb18ff7e4b/raw/f8361f17012860422752496b9439fa2920db2c8e/The%2520Technical%2520Interview%2520Cheat%2520Sheet.md)-->
-
-<!--### 3 coworkers have a meeting. The 1st member has an IQ 50, 2nd - IQ 100 and 3rd - IQ 150. What is the meeting's IQ?
-
-Apply an inverse probability classification where T is the average total possible IQ of all people. This will give you a probability scores of the IQ for the meeting.
-
-    50/T = Prob(P) = X1
-    100/T = Prob(Q) = X2
-    150/T = Prob(R) = X3
-    M = Event of meeting
-
-    Prob(M | P) = N1
-    Prob(M | Q) = N2
-    Prob(M | R) = N3
-
-    Prob(P | M) = Prob(P) Prob(M | P) / ( Prob(P) Prob(M | P) + Prob(Q) Prob(M | Q) … )
-
-I’d say the meeting has a 30% probability of being IQ 50 or 150, and there’s a 40% chance the meeting’s IQ will be 100.
-
-So you should probably sit in; you might learn something.-->
-
 ### If each day was the same, where would it start for you?
 
 Rather than What would I do?, I like to take the virtue ethical approach and ask: Who would I be? (This answer is inspired by [The Five Chinese Brothers](http://vaiden.net/five_chinese_brothers.html).)
