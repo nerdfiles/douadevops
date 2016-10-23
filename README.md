@@ -486,6 +486,12 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 1. splunk
 2. sudo npm i -g @sematext/logagent
 3. loggly
+4. winston
+
+## authentication
+
+1. JWT
+2. passport
 
 ## bug tracking
 
