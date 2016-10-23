@@ -51,11 +51,11 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 
 ## vim
 
-1. pathogen
-2. NERDTree
+1. [pathogen](https://github.com/tpope/vim-pathogen)
+2. [NERDTree](https://github.com/scrooloose/nerdtree)
 3. Ctags
 4. CtrlP
-5. spf13
+5. [spf13](http://vim.spf13.com/)
 
 ## rss
 
@@ -63,13 +63,13 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 
 ## local virtual envs
 
-1. `virtualenv`:  
+1. [`virtualenv`](https://gist.github.com/bbengfort/246bc820e76b48f71df7):  
    Be sure to set up `export $WORKON_HOME=$SOME_VIR_DIR`.
-2. `pyenv`:  
+2. [`pyenv`](https://github.com/yyuu/pyenv):  
    Fine on Ubuntu; often disappointing on OS X.
-3. `rbenv`:  
+3. [`rbenv`](https://github.com/rbenv/rbenv#basic-github-checkout):  
    Works well with `compass`.
-4. `nodeenv`
+4. [`nodeenv`](https://github.com/ekalinin/nodeenv)
 
 ## node
 
@@ -452,7 +452,9 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 6. documentation availability
 7. npm install -fg styledocco (@see `--preprocessor`)
 8. http://apidocjs.com/
-9. npm install --save-dev mochawesome
+9. `npm install --save-dev mochawesome`
+10. `npm i verb verb-cli -g && npm install -g verb-readme-generator`
+11. [generator.js directories](https://generate.github.io/generate/#generators) mapped to `$ gen`
 
 ## contribution
 
