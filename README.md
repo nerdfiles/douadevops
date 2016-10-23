@@ -485,8 +485,9 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 
 1. splunk
 2. sudo npm i -g @sematext/logagent
-3. loggly
-4. winston
+3. [loggly](https://www.loggly.com/docs/nodejs-logs/) ( winston )
+4. [morgan](https://github.com/expressjs/morgan)
+5. [Bristol](https://github.com/TomFrost/Bristol)
 
 ## authentication
 
@@ -506,6 +507,7 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 
 1. node-xmpp
 2. node-webrtc
+3. [dualapi](https://www.npmjs.com/package/dualapi)
 
 ## chat
 
