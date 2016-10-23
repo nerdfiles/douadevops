@@ -86,6 +86,7 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 11. npm install babel-plugin-transform-es2015-spread
 12. npm install --save-dev babel-cli babel-preset-es2015
 13. [js as a platform](https://github.com/280north/narwhal): so like `$ js class/method`
+14. un[zip](https://github.com/kriskowal/zip) in node
 
 ## ruby
 
