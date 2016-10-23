@@ -275,6 +275,9 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 1. d3
 2. rickshaw
 3. `G = nx.DiGraph()` (directed graphs in networkx)
+4. [p5.js](https://github.com/processing/p5.js)
+5. [Raphaël](https://dmitrybaranovskiy.github.io/raphael/)
+6. [charting](https://github.com/DmitryBaranovskiy/g.raphael) in Raphaël
 
 ## graphs
 
@@ -447,7 +450,7 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 
 1. static code analysis: [plato](https://github.com/es-analysis/plato)
 2. css [redundancy analysis](https://zmoazeni.github.io/csscss/)
-3. inline documentation
+3. [inline documentation](https://github.com/kriskowal/whatsupdoc) and [meta templating](https://github.com/tkouts/py-normal-template)
 4. style guide
 5. documentation formats
 6. documentation availability
