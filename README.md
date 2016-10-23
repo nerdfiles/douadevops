@@ -34,8 +34,10 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 
 ## networking
 
-1. openwrt
-2. cjdns
+1. [openwrt](http://wiki.openwrt.org/doc/networking/network.interfaces)
+2. [cjdns](https://cryptoanarchy.freed0m4all.net/wiki/Cjdns/How_to_install_cjdns)
+3. [bridges](https://www.torproject.org/docs/bridges)
+4. tunneling: `ssh -f -N -T -R22222:localhost:22 phost.example.com`
 
 ## package management
 
