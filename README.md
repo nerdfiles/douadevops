@@ -112,6 +112,14 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 6. rest_framework
 7. moka
 
+## json
+
+1. [json-schema](http://json-schema.org/latest/json-schema-hypermedia.html)
+
+## w3c
+
+1. [github](https://github.com/w3c)
+
 ## virtualization
 
 1. docker
