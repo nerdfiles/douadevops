@@ -85,6 +85,7 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 10. databases: postgresql: `npm install node-pg-query`
 11. npm install babel-plugin-transform-es2015-spread
 12. npm install --save-dev babel-cli babel-preset-es2015
+13. [js as a platform](https://github.com/280north/narwhal): so like `$ js class/method`
 
 ## ruby
 
@@ -444,14 +445,14 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 
 ## documentation
 
-1. static code analysis
-2. redundancy analysis
+1. static code analysis: [plato](https://github.com/es-analysis/plato)
+2. css [redundancy analysis](https://zmoazeni.github.io/csscss/)
 3. inline documentation
 4. style guide
 5. documentation formats
 6. documentation availability
 7. npm install -fg styledocco (@see `--preprocessor`)
-8. http://apidocjs.com/
+8. `npm install apidoc -g`
 9. `npm install --save-dev mochawesome`
 10. `npm i verb verb-cli -g && npm install -g verb-readme-generator`
 11. [generator.js directories](https://generate.github.io/generate/#generators) mapped to `$ gen`
