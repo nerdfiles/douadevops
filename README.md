@@ -313,6 +313,7 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 3. [sizzle](https://sizzlejs.com/)
 4. [moment](http://momentjs.com/)
 5. [lodash](https://lodash.com/docs/)
+6. [ numeral ](http://numeraljs.com/)
 
 ## js crypto
 
