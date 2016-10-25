@@ -159,11 +159,11 @@ Many people also look at the debate as one of aesthetic disagreement between the
 Backing a currency with a commodity requires that a community 
 planner be assured that while transaction identity rules are 
 faithfully respected and secured, people identity requirements 
-are not sacrificed to underpin peer-to-peer digital exchange with 
-a financial intermediary.
+are not sacrificed in order to underpin a peer-to-peer digital 
+exchange without financial intermediaries.
 </p>
 
-<p>NextMarket's goal is to enable Distributed Agriculture through a 
+<p>The goal is to enable Distributed Agriculture through a 
 commodity-backed cryptocurrency, and to facilitate Resource 
 Incentivization and reduction of Consumption Inequality through 
 Asset Tracking, Ecology Management, and Regulatory Compliance 
@@ -180,7 +180,7 @@ facilitated by blockchain technology farmers and growers can
 at the same time ensure their own premiums based on local market 
 demand, and then supply the commodity-based currency through 
 lightweight CPU mining where they own the hardware, yet follow 
-NextMarket specifications for maintenance and upgrades.</p>
+durable specifications for maintenance and upgrades.</p>
 
 <h2>Key Questions</h2>
 
@@ -253,7 +253,7 @@ not actual productivity (culture, music, trade, invention, ideas).</p>
 
 <h2>Distributed Agriculture Ontology</h2>
 
-<ol><li>Producers to mint their own money on commodity CPUs (NextCoin)</li>
+<ol><li>Producers to mint their own money on commodity CPUs</li>
 <li>Banks/Consumers to accept at full dollar value, 
 differentiating the businesses as one supporting the 
 notes' values of ecology, local economy, produce narrative, 
@@ -271,7 +271,7 @@ recirculating in the region</li>
 100,000 pounds of cabbage with a wholesale value of $50,000. </p>
 
 <p>Grower Yury will create Forward Contract and list that Contract 
-on the NextExchange. Contract totals a value of $50,000 worth of 
+on the digital exchange. Contract totals a value of $50,000 worth of 
 produced goods redeemable for a discounted enforced future sale. </p>
 
 <p>Retail Grocers and Individuals can purchase as much of 
