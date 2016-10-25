@@ -294,8 +294,7 @@ businesses.</p>
 
 <h2>Payment Network</h2>
 
-<p><a href="http://nexttech.io/page/periodic-table-of-information/transmedia">Transmedia Payment System</a> which is less expensive for Retailers
-interchange fees for every transaction.</p>
+<p>Transmedia Payment System based on the periodic table of information (à la Kropotkin's "thousands of associations; that incorporates cryptocurrencies within a formalized dual-aspect integrated ontology for cybernetic economies of scale) which is less expensive for Retailers interchange fees for every transaction.</p>
 
 <h2>Historic/al Examples</h2>
 
@@ -312,7 +311,7 @@ interchange fees for every transaction.</p>
 <ol><li>Premiums determined by production capabilities.</li>
 <li>Bi-annual inspections for certain time to appraise 
 goods and practices.</li>
-<li>FLO Standards (concurrency-focused <a href="http://nexttech.io/page/periodic-table-of-information/hypermedia">hypermedia-ready blockchain</a> program executions over Premiums and Democratic Voting Practices)can be incorporated into regulatory <a href="https://www.mtholyoke.edu/courses/sgabriel/FairTrade/what.htm#FTStandards">blockchain monitoring system</a>:  
+<li>FLO Standards (concurrency-focused hypermedia-ready blockchain program executions over Premiums and Democratic Voting Practices)can be incorporated into regulatory <a href="https://www.mtholyoke.edu/courses/sgabriel/FairTrade/what.htm#FTStandards">blockchain monitoring system</a>:  
 <ul><li>Minimum Pricing Agreements for Contracts; also known as the "Price Floor" per commodity</li>
 <li>Determination of Social Premiums (during Bull Market scenarios premiums go to growers/producers in need)</li>
 <li>One Person, One Vote for Coalition/Coop Farmers </li>
