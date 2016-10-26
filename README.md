@@ -317,6 +317,8 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 
 ## js crypto
 
+Do *not* roll your own crypto unless you have a good reason to. Bear in mind that even Bloom Filters can be accomplished through non-cryptographic techniques.
+
 1. [seifnode](https://github.com/paypal/seifnode)
 2. cryptojs
 3. bitcore
