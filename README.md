@@ -323,6 +323,10 @@ Do *not* roll your own crypto unless you have a good reason to. Bear in mind tha
 2. cryptojs
 3. bitcore
 
+## js validation
+
+1. [superhero-validator](https://www.npmjs.com/package/superhero-validator)
+
 ## js orm
 
 1. breeze
