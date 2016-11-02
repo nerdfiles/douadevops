@@ -1,6 +1,6 @@
 # Topics
 
-Right or wrong, I said it.
+[Upwork](http://www.upwork.com/o/profiles/users/_~01be4e14e94a7eba17/) profile.
 
 ## Career
 
