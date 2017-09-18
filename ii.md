@@ -102,6 +102,18 @@ By the formalism:
     3. ◻[G(x) → ~p]
     4. ¬◇[G(x)]
 
+Consider `p`<sub><code>n</code></sub>:
+
+    p₁ = All rights are economically realized.
+    p₂ = An autocratic ruler exists.
+    p₃ = Some other force besides G created the law.
+    p₄ = The world's economically free, non-governmental agents produce more
+         moral evil than moral goodness such that their freedom is not worth
+         the cost.
+    p₅ = Every economically free, non-governmental agent always does the
+         morally wrong thing.
+    p₆ = Gratuitous injustice exists.
+
 How is *contingent a priority* useful to cryptography? Saul Kripke's concept
 of rigid designation plays out wonderfuly to speak to Brian Cantwell Smith's
 damning effect such that computer science lacks a theory. Before we can
