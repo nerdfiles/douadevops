@@ -104,7 +104,8 @@ By the formalism:
 
 Consider `pₙ`:
 
-    p₁ = All rights are economically realized.
+    p₁ = All rights are economically realized.           (S.N.'s "trust" problem has no
+                                                          "work").
 
     p₂ = An autocratic ruler exists.
 
