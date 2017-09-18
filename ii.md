@@ -137,15 +137,15 @@ operator interpretations of the domain of discourse with
 
 Like so:
 
-    <proof Alice controls 1337 BTC as of Nov 22nd 2016>
+    <proof/Alice controls 1337 BTC as of Nov 22nd 2016>
 
 says
 
-    eventually trust that Alice controls 1337 BTC as of Nov 22nd 2016
+    eventually trust proof Alice controls 1337 BTC as of Nov 22nd 2016
 
 Or:
 
-    [proof Alice controls 1337 BTC as of Nov 22nd 2016]
+    [proof/Alice controls 1337 BTC as of Nov 22nd 2016]
 
 says
 
@@ -153,14 +153,14 @@ says
 
 Some nodes will contain ledgers that state, more simply:
 
-    Alice controls 1337 BTC as of Nov 22nd 2016
+    proof/Alice controls 1337 BTC as of Nov 22nd 2016
 
 We inherit extensions from TLA+, such as
 
 ### Formal Input Specification
 
     contingent a priori                rigid designator keys
-    trust infinitely often             (commitments always commit to another          -[]<>
+    trust infinitely often             (commitments always commit to another          []<>
                                         commit)
 #### Reads
 
@@ -175,12 +175,12 @@ We inherit extensions from TLA+, such as
 
     eventually this node will always trust that Alice controls 1337 BTC as of Nov 22nd 2016
 
-By periodic table of information's common consensus protocols:
+By periodic table of information's common consensus protocols, we add two more:
 
 ### Formal Input Specification
 
-    a priori necessity
-    eventually could always trust      (proofs who contribute to a bloom filter       <>[]
+    a posteriori necessity             natural kind forms
+    must always trust                  (proofs who contribute to a bloom filter       [][]
                                         immutable DataSet [dictatorship of
                                         insufficiency, qualitative
                                         indistinguishability, Kripkean
@@ -191,23 +191,27 @@ By periodic table of information's common consensus protocols:
                                         support) that commit to other
                                         commitments]; commitments eventually
                                         could always commit to another commitment)
+
+#### Reads
+
+    necessarily this node must always trust that Alice controls 1337 BTC as of Nov 22nd 2016
+
+### Formal Input Specification
+
+    a priori necessity
+    eventually could always trust       (commitments eventually could always commit   <>[]
+                                         to another commitment; 1-1)
+
 #### Reads
 
     eventually this node could always trust that Alice controls 1337 BTC as of Nov 22nd 2016
 
-### Formal Input Specification
-
-    a posteriori necessity             natural kind forms
-    eventually must always trust       (commitments must always commit to            [][]
-                                        another commitment; 1-1)
-
-#### Reads
-
-    eventually this node must always trust that Alice controls 1337 BTC as of Nov 22nd 2016
-
-for all SP, solvency proofs.
+for all SP, solvency proofs. So the Attribution Layer encodes the incomparable
+pairs of causal chains of names such that momentum accounts are formally
+specified inputs.
 
 ### Possible Worlds
+
 1. not subject to "far away country" paradoxes, or Pierre-isms
 
 <blockquote>
