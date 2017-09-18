@@ -105,13 +105,22 @@ By the formalism:
 Consider `p`<sub><code>n</code></sub>:
 
     p₁ = All rights are economically realized.
+
     p₂ = An autocratic ruler exists.
-    p₃ = Some other force besides G created the law.
+
+    p₃ = Some other Force, F, besides G created the law. ("Force" below will be
+                                                          defined in terms of
+                                                          impulses that
+                                                          represent future
+                                                          constraints/relationships)
+
     p₄ = The world's economically free, non-governmental agents produce more
          moral evil than moral goodness such that their freedom is not worth
          the cost.
+
     p₅ = Every economically free, non-governmental agent always does the
          morally wrong thing.
+
     p₆ = Gratuitous injustice exists.
 
 How is *contingent a priority* useful to cryptography? Saul Kripke's concept
