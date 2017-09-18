@@ -196,10 +196,10 @@ layers essential to the backbone of the discovery layer, and
 these layers factors are non-coincidental symmetrical thirds.
 
       3             4
-     2 2    ◻-◻    444  ◇◻       1. Negative Introspection
-    1   1         55555          2. Convergent
-                 6666666         3. Brouwerian
-                  55555          4. Positive Introspection
+     2 2    ◻-◻    444  ◇◻       1. Negative Introspection (continuous   : ◻¬◻)
+    1   1         55555          2. Convergent             (generic      : ¬◻◇)
+                 6666666         3. Brouwerian             (dialectical  : ◇◻)
+                  55555          4. Positive Introspection (differential : ◻◻)
              ◻◻    444  -◻◇
                     4
 
@@ -305,4 +305,26 @@ for all SP, solvency proofs. So the Attribution Layer encodes the incomparable
 pairs of causal chains of names such that momentum accounts are formally
 specified inputs.
 
+We are essentially proposing a semantics behind earlier-later rigid designation
+with timegates, like in HTTP Framework for Time-Based Access to Resource
+States -- Memento[0] pattern, but to include future states, as momentum paths.
+
+So the Attribution Layer's attributive designations emulate `Memento`+`Futures`
+
+Other patterns:
+Adaptations
+Bridge
+Builder (Laurelle, etc.)
+Commander
+Decorator
+Factory
+Design
+Interpretor
+Observer
+Singleton
+Strategy
+Template
+
+    ____
+    [0]: https://tools.ietf.org/html/rfc7089
 
