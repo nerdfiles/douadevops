@@ -336,6 +336,8 @@ for all SP, solvency proofs. So the Attribution Layer encodes the incomparable
 pairs of causal chains of names such that momentum accounts are formally
 specified inputs.
 
+## Goals to address Winograd Schemas
+
 We are essentially proposing a semantics behind earlier-later rigid designation
 with `timegate`s, like in HTTP Framework for Time-Based Access to Resource
 States -- Memento[0] pattern, but to include future states, as momentum paths.
