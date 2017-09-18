@@ -316,18 +316,18 @@ So the Attribution Layer's attributive designations emulate `Memento`+`Futures`
 
 Other patterns:
 
-    XIV               (adaptations)
-    Communicativity   (bridge)
-    Operationality    (builder)
-    Digitality        (commander)
-    Analog            (decorator)
-    Evental mode      (factory)
-    Immanental        (design)
-    Rivenality        (interpretor)
-    IX                (observer)
-    Ethical unitarity (singleton)
-    V                 (strategy)
-    Virtuality        (template)
+    XIV
+    Communicativity
+    Operationality
+    Digitality
+    Analog
+    Evental mode
+    Immanental
+    Rivenality
+    IX
+    Ethical unitarity
+    V
+    Virtuality
 
     ____
     [0]: https://tools.ietf.org/html/rfc7089
