@@ -115,12 +115,13 @@ Consider `pₙ`:
                                                           represent future
                                                           constraints/relationships)
 
-    p₄ = The world's economically free, non-governmental agents produce more
-         moral evil than moral goodness such that their freedom is not worth
+    p₄ = The world's economically free, non-governmental
+         agents produce more moral evil than moral
+         goodness such that their freedom is not worth
          the cost.
 
-    p₅ = Every economically free, non-governmental agent always does the
-         morally wrong thing.
+    p₅ = Every economically free, non-governmental agent
+         always does the morally wrong thing.
 
     p₆ = Gratuitous injustice exists.
 
