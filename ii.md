@@ -164,7 +164,7 @@ We inherit extensions from TLA+, such as
                                         commit)
 #### Reads
 
-    trust infinitely often that Alice controls 1337 BTC as of Nov 22nd 2016
+    trust infinitely often proof/Alice controls 1337 BTC as of Nov 22nd 2016
 
 ### Formal Input Specification
 
@@ -173,7 +173,7 @@ We inherit extensions from TLA+, such as
                                         to another)
 #### Reads
 
-    eventually this node will always trust that Alice controls 1337 BTC as of Nov 22nd 2016
+    eventually this node will always trust proof/Alice controls 1337 BTC as of Nov 22nd 2016
 
 By periodic table of information's common consensus protocols, we add two more:
 
@@ -194,7 +194,7 @@ By periodic table of information's common consensus protocols, we add two more:
 
 #### Reads
 
-    necessarily this node must always trust that Alice controls 1337 BTC as of Nov 22nd 2016
+    necessarily this node must always trust proof/Alice controls 1337 BTC as of Nov 22nd 2016
 
 ### Formal Input Specification
 
@@ -204,7 +204,7 @@ By periodic table of information's common consensus protocols, we add two more:
 
 #### Reads
 
-    eventually this node could always trust that Alice controls 1337 BTC as of Nov 22nd 2016
+    eventually this node could always trust proof/Alice controls 1337 BTC as of Nov 22nd 2016
 
 for all SP, solvency proofs. So the Attribution Layer encodes the incomparable
 pairs of causal chains of names such that momentum accounts are formally
@@ -254,12 +254,20 @@ Kripke talks "addresses" in causal chains (blockchains?):
 1. "different objects in different possible worlds"
 
 ### Categorical Imperative
+
 #### Kant
+
 ### Utilitarian Prescriptivism
+
 #### Hare
+
 #### Sedgwick
+
 ### Generating the Future
+
 #### Hermann Cohen
 
 ## A priori necessity
+
 ### Gödel Numbers
+
