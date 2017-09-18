@@ -1,5 +1,8 @@
 # The Impossibility of Intent
 
+Review
+[diagram](https://gist.github.com/nerdfiles/cf1f6d2558083ae215b9786d2b85667f).
+
 ## A priori necessity
 
 ### Gödel Numbers
