@@ -125,6 +125,16 @@ Consider `pₙ`:
 
     p₆ = Gratuitous injustice exists.
 
+van Inwagen argues correctly that supposing any counterfactual to an evil is sufficient to
+lend sense; whereas preventing a single death within the context of a supposed
+evil does not invalidate the meaning of its global effectviz gratuitousness.
+Saving one ant after razing an ant bed does not invalidate the evil; they are
+two different sorts. Similarly, killing one more ant does not make the evil any
+less gratuitous. A gratuitous evil is a sui generis form that is "continuous" as
+an epithet of (global) being, and is therefore non-reducible. Genericity,
+conversely (e.g., `p₁`) is conceivable. Is the future mathematically an agent of
+suffering?
+
 `p₃` is most interesting for our purposes here, which will be described below.
 However, it is worth mentioning now that periodic table of information is
 strictly modally justified by the reductio ad absurdum. Experimental evidence
