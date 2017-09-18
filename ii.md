@@ -159,7 +159,7 @@ We inherit extensions from TLA+, such as
 
 ### Formal Input Specification
 
-    contingent a priori                rigid designator keys
+    contingent a priori                rigid designator keys (action)
     trust infinitely often             (commitments always commit to another          []<>
                                         commit)
 #### Reads
@@ -168,7 +168,7 @@ We inherit extensions from TLA+, such as
 
 ### Formal Input Specification
 
-    contingent a posteriori
+    contingent a posteriori            (force)
     eventually will always trust       (commitments eventually will always commit     []-[]
                                         to another)
 #### Reads
@@ -179,7 +179,7 @@ By periodic table of information's common consensus protocols, we add two more:
 
 ### Formal Input Specification
 
-    a posteriori necessity             natural kind forms
+    a posteriori necessity             natural kind forms (momentum)
     must always trust                  (proofs who contribute to a bloom filter       [][]
                                         immutable DataSet [dictatorship of
                                         insufficiency, qualitative
@@ -192,13 +192,24 @@ By periodic table of information's common consensus protocols, we add two more:
                                         commitments]; commitments eventually
                                         could always commit to another commitment)
 
+One corollary here is that non-idempotency in ontologicals lends to natural
+kinds; i.e., that `/my-keywords` yields the JSON response `application/json` in
+H-Factor specification that it does is a "natural kind" like "god has the atomic
+number 79" or "water = H2O".
+
+    Gold has the atomic number 79
+
+Analogue to cyberspace:
+
+    /my-keywords has the JSON response {"collection": {"version": ... }}
+
 #### Reads
 
     necessarily this node must always trust proof/Alice controls 1337 BTC as of Nov 22nd 2016
 
 ### Formal Input Specification
 
-    a priori necessity
+    a priori necessity                  (impulse)
     eventually could always trust       (commitments eventually could always commit   <>[]
                                          to another commitment; 1-1)
 
