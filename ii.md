@@ -1,5 +1,9 @@
 # The Impossibility of Intent
 
+## A priori necessity
+
+### Gödel Numbers
+
 ## A posteriori necessity
 
 ### Natural Kinds
@@ -14,6 +18,70 @@
 ### Hypothetical Imperative
 
 ## Contingent a priori
+
+### Possible Worlds
+
+1. not subject to "far away country" paradoxes, or Pierre-isms
+
+<blockquote>
+<p>
+  I will say something briefly about ‘possible worlds’. ... In the present
+  monograph I argued against those misuses of the concept that regard possible
+  worlds as something like distant planets, like our own surroundings but
+  somehow existing in a different dimension, or that lead to spurious problems
+  of ‘transworld identification’. Further, if one wishes to avoid the Weltangst
+  and philosophical confusions that many philosophers have associated with
+  the ‘worlds’ terminology, I recommended that ‘possible state (or history)
+  of the world’, or ‘counterfactual situation’ might be better. One should even
+  remind oneself that the ‘worlds’ terminology can often be replaced by modal
+  talk—‘It is possible that ...’
+</p>
+</blockquote>
+
+### Rigid Designators
+
+Kripke talks "addresses" in causal chains (blockchains?):
+
+<blockquote>
+<p>
+  Someone, let’s say, a baby, is born; his parents call him by a certain name.
+  They talk about him to their friends, Other people meet him. Through various
+  sorts of talk the name is spread from link to link as if by a chain. A speaker
+  who is on the far end of this chain, who has heard about, say Richard Feynman,
+  in the market place or elsewhere, may be referring to Richard Feynman even
+  though he can’t remember from whom he first heard of Feynman or from whom he
+  ever heard of Feynman.
+</p>
+</blockquote>
+
+1. Water boils at 100 degrees celsius
+2. The standard meter stick is one meter long
+3. "same object in every possible world"
+
+### Nonrigid Designators
+
+1. "different objects in different possible worlds"
+
+### Categorical Imperative
+
+#### Kant
+
+### Utilitarian Prescriptivism
+
+#### Hare
+
+#### Sedgwick
+
+### Generating the Future
+
+#### Hermann Cohen
+
+## Modal Solvency Theorems
+
+Interesting ontics:
+
+1. _same solvency proof_ in every possible world
+2. _different solvency proofs_ in different possible worlds
 
 How is *contingent a priority* useful to cryptography? Saul Kripke's concept
 of rigid designation plays out wonderfuly to speak to Brian Cantwell Smith's
@@ -221,64 +289,4 @@ for all SP, solvency proofs. So the Attribution Layer encodes the incomparable
 pairs of causal chains of names such that momentum accounts are formally
 specified inputs.
 
-### Possible Worlds
-
-1. not subject to "far away country" paradoxes, or Pierre-isms
-
-<blockquote>
-<p>
-  I will say something briefly about ‘possible worlds’. ... In the present
-  monograph I argued against those misuses of the concept that regard possible
-  worlds as something like distant planets, like our own surroundings but
-  somehow existing in a different dimension, or that lead to spurious problems
-  of ‘transworld identification’. Further, if one wishes to avoid the Weltangst
-  and philosophical confusions that many philosophers have associated with
-  the ‘worlds’ terminology, I recommended that ‘possible state (or history)
-  of the world’, or ‘counterfactual situation’ might be better. One should even
-  remind oneself that the ‘worlds’ terminology can often be replaced by modal
-  talk—‘It is possible that ...’
-</p>
-</blockquote>
-
-### Rigid Designators
-
-Kripke talks "addresses" in causal chains (blockchains?):
-
-<blockquote>
-<p>
-  Someone, let’s say, a baby, is born; his parents call him by a certain name.
-  They talk about him to their friends, Other people meet him. Through various
-  sorts of talk the name is spread from link to link as if by a chain. A speaker
-  who is on the far end of this chain, who has heard about, say Richard Feynman,
-  in the market place or elsewhere, may be referring to Richard Feynman even
-  though he can’t remember from whom he first heard of Feynman or from whom he
-  ever heard of Feynman.
-</p>
-</blockquote>
-
-1. Water boils at 100 degrees celsius
-2. The standard meter stick is one meter long
-3. "same object in every possible world"
-
-### Nonrigid Designators
-
-1. "different objects in different possible worlds"
-
-### Categorical Imperative
-
-#### Kant
-
-### Utilitarian Prescriptivism
-
-#### Hare
-
-#### Sedgwick
-
-### Generating the Future
-
-#### Hermann Cohen
-
-## A priori necessity
-
-### Gödel Numbers
 
