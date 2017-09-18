@@ -61,7 +61,7 @@ Kripke talks "addresses" in causal chains (blockchains?):
 2. The standard meter stick is one meter long
 3. "same object in every possible world"
 
-### Nonrigid Designators
+### Non-rigid Designators (¬◻◻)
 
 1. "different objects in different possible worlds"
 
