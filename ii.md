@@ -241,19 +241,19 @@ Some nodes will contain ledgers that state, more simply (without `◻` or `◇`)
 
 We inherit extensions from TLA+, such as
 
-### Formal Input Specification
+### Formal Input Specification for Action
 
-    contingent a priori                rigid designator keys (action)
-    trust infinitely often             (commitments always commit to another          []<>
+    contingent a priori                (action)                                       rigid designator keys (naming)
+    trust infinitely often             (commitments always commit to another          ¬◻◇
                                         commit)
 #### Reads
 
     trust infinitely often proof/Alice controls 1337 BTC as of Nov 22nd 2016
 
-### Formal Input Specification
+### Formal Input Specification for Force
 
-    contingent a posteriori            (force)
-    eventually will always trust       (commitments eventually will always commit     []-[]
+    contingent a posteriori            (force)                                        async
+    eventually will always trust       (commitments eventually will always commit     ◻¬◻
                                         to another)
 #### Reads
 
@@ -261,10 +261,10 @@ We inherit extensions from TLA+, such as
 
 By periodic table of information's common consensus protocols, we add two more:
 
-### Formal Input Specification
+### Formal Input Specification for Momentum
 
-    a posteriori necessity             natural kind forms (momentum)
-    must always trust                  (proofs who contribute to a bloom filter       [][]
+    a posteriori necessity             (momentum)                                     natural kind forms (cache inv.)
+    must always trust                  (proofs who contribute to a bloom filter       ◻◻
                                         immutable DataSet [dictatorship of
                                         insufficiency, qualitative
                                         indistinguishability, Kripkean
@@ -291,10 +291,10 @@ Analogue to cyberspace:
 
     necessarily this node must always trust proof/Alice controls 1337 BTC as of Nov 22nd 2016
 
-### Formal Input Specification
+### Formal Input Specification for Impulse
 
-    a priori necessity                  (impulse)
-    eventually could always trust       (commitments eventually could always commit   <>[]
+    a priori necessity                  (impulse)                                     off-by-one
+    eventually could always trust       (commitments eventually could always commit   ◇◻
                                          to another commitment; 1-1)
 
 #### Reads
@@ -312,18 +312,19 @@ States -- Memento[0] pattern, but to include future states, as momentum paths.
 So the Attribution Layer's attributive designations emulate `Memento`+`Futures`
 
 Other patterns:
-Adaptations
-Bridge
-Builder (Laurelle, etc.)
-Commander
-Decorator
-Factory
-Design
-Interpretor
-Observer
-Singleton
-Strategy
-Template
+
+    XIV               (adaptations)
+    Communicativity   (bridge)
+    Operationality    (builder)
+    Digitality        (commander)
+    Analog            (decorator)
+    Evental mode      (factory)
+    Immanental        (design)
+    Rivenality        (interpretor)
+    IX                (observer)
+    Ethical unitarity (singleton)
+    V                 (strategy)
+    Virtuality        (template)
 
     ____
     [0]: https://tools.ietf.org/html/rfc7089
