@@ -231,11 +231,11 @@ layers essential to the backbone of the discovery layer, and
 these layers factors are non-coincidental symmetrical thirds.
 
       3             4
-     2 2    ◻-◻    444  ◇◻       1. Negative Introspection (continuous   : ◻¬◻)
-    1   1         55555          2. Convergent             (generic      : ¬◻◇)
-                 6666666         3. Brouwerian             (dialectical  : ◇◻)
+     2 2    ◻-◻    444  -◻◇      1. Negative Introspection (continuous   : ◻¬◻)
+    1   1         55555          2. Convergent             (generic      : ◇◻)
+                 6666666         3. Brouwerian             (dialectical  : ¬◻◇)
                   55555          4. Positive Introspection (differential : ◻◻)
-             ◻◻    444  -◻◇
+             ◻◻    444  ◇◻
                     4
 
 Momentum paths would be stored efficiently and formally along these lines. If
@@ -277,7 +277,7 @@ Some nodes will contain ledgers that state, more simply (without `◻` or `◇`)
 ### Formal Input Specification for Action
 
     contingent a priori                (action)                                       rigid designator keys
-    trust infinitely often             (commitments always commit to another          ¬◻◇
+    trust infinitely often             (commitments always commit to another          ◇◻
                                         commit)
 #### Reads
 
@@ -327,7 +327,7 @@ Analogue to cyberspace:
 ### Formal Input Specification for Impulse
 
     a priori necessity                  (impulse)                                     .
-    eventually could always trust       (commitments eventually could always commit   ◇◻
+    eventually could always trust       (commitments eventually could always commit   ¬◻◇
                                          to another commitment; 1-1)
 
 #### Reads
