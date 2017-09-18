@@ -102,7 +102,7 @@ By the formalism:
     3. ◻[G(x) → ~p]
     4. ¬◇[G(x)]
 
-Consider `p`<sub><code>n</code></sub>:
+Consider `pₙ`:
 
     p₁ = All rights are economically realized.
 
@@ -122,6 +122,11 @@ Consider `p`<sub><code>n</code></sub>:
          morally wrong thing.
 
     p₆ = Gratuitous injustice exists.
+
+`p₃` is most interesting for our purposes here, which will be described below.
+However, it is worth mentioning now that periodic table of information is
+strictly modally justified by the reductio ad absurdum. Experimental evidence
+remains to be seen, but that also depends on an ontic-optic meta-description.
 
 How is *contingent a priority* useful to cryptography? Saul Kripke's concept
 of rigid designation plays out wonderfuly to speak to Brian Cantwell Smith's
