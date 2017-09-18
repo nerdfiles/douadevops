@@ -222,6 +222,10 @@ this factivity which turns on the idea that meaning can be nested
 for DAGs of momentum accounts? Can a DAG represent future momentum?
 How does liveness contribute to the interpretation of identity statements?
 
+## Formal Input Specification Language
+
+We construct analogical extensions by TLA+ in the following ways.
+
 One simple thing we are saying here is that there are four kinds of
 layers essential to the backbone of the discovery layer, and
 these layers factors are non-coincidental symmetrical thirds.
@@ -269,8 +273,6 @@ says
 Some nodes will contain ledgers that state, more simply (without `◻` or `◇`):
 
     proof/Alice controls 1337 BTC as of Nov 22nd 2016
-
-We inherit extensions from TLA+, such as
 
 ### Formal Input Specification for Action
 
