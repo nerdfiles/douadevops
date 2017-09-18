@@ -363,22 +363,37 @@ consciousness/brains which causes collapse. So _a relationship_ between future
 and current accounts must show a microeconomic mass that has a certain velocity or
 momentum to create new wealth.
 
-Other _econometric_ traits (LN) (as opposed to _sememetric_, implied as CL (H-Factor),
-modeled from Rhetorical Relations); _forms are the locus of instrumentality_:
+Other _econometric_ traits (LN) (as opposed to _sememetric_, implied as control
+layer (H-Factor), modeled from Rhetorical Relations; in similar fashion "past"
+as "meaning is use" in language (facan de parler: LN, LT, CL, most notably,
+within the "lingua franca" of the web). So, our control optics pertaining to
+control data of links). Therefore, _forms and links are the locus of instrumentality_:
 
-    XIV
-    Communicativity
-    Operationality
-    Digitality
-    Analog
-    Evental mode
-    Immanental
-    Rivenality
-    IX
-    Ethical unitarity
-    V
-    Virtuality
+We have extended Memento, essentially, and applied to the periodic table of
+information's Attribute Layer as a point of interest in terms of potential
+reference implementations. *Meta-link* would therefore be the activity
+undertaken to understand the goal of PTI. Other shapes may take form within a
+system of communicative praxis of digitality, and all its in-structural demands,
+namely the tendential fall of its rate.
 
-    ____
-    [0]: https://tools.ietf.org/html/rfc7089
+Some operator and content combo; e.g.: &, ~, >, etc. that is well-formed as
+CCP shapes, standards, norms, problems, gestures, contours, etc.; mapping TBD.
+
+    Name                Theoretical Pattern
+    XIV                 (TBD)
+    Communicativity     (TBD)
+    Operationality      (TBD)
+    Digitality          (two > one)
+    Analog              (TBD)
+    Evental mode        (multiple)
+    Immanental          (TBD)
+    Rivenality          (~one)
+    IX                  (two)
+    Ethical unitarity   (one)
+    V                   (TBD)
+    Virtuality          (TBD)
+
+<div>
+[0]: https://tools.ietf.org/html/rfc7089
+</div>
 
