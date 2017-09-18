@@ -246,7 +246,7 @@ We inherit extensions from TLA+, such as
 
 ### Formal Input Specification for Action
 
-    contingent a priori                (action)                                       rigid designator keys (naming)
+    contingent a priori                (action)                                       rigid designator keys
     trust infinitely often             (commitments always commit to another          ¬◻◇
                                         commit)
 #### Reads
@@ -255,7 +255,7 @@ We inherit extensions from TLA+, such as
 
 ### Formal Input Specification for Force
 
-    contingent a posteriori            (force)                                        async
+    contingent a posteriori            (force)                                        .
     eventually will always trust       (commitments eventually will always commit     ◻¬◻
                                         to another)
 #### Reads
@@ -266,7 +266,7 @@ By periodic table of information's common consensus protocols, we add two more:
 
 ### Formal Input Specification for Momentum
 
-    a posteriori necessity             (momentum)                                     natural kind forms (cache inv.)
+    a posteriori necessity             (momentum)                                     natural kind forms
     must always trust                  (proofs who contribute to a bloom filter       ◻◻
                                         immutable DataSet [dictatorship of
                                         insufficiency, qualitative
@@ -296,7 +296,7 @@ Analogue to cyberspace:
 
 ### Formal Input Specification for Impulse
 
-    a priori necessity                  (impulse)                                     off-by-one
+    a priori necessity                  (impulse)                                     .
     eventually could always trust       (commitments eventually could always commit   ◇◻
                                          to another commitment; 1-1)
 
@@ -309,14 +309,62 @@ pairs of causal chains of names such that momentum accounts are formally
 specified inputs.
 
 We are essentially proposing a semantics behind earlier-later rigid designation
-with timegates, like in HTTP Framework for Time-Based Access to Resource
+with `timegate`s, like in HTTP Framework for Time-Based Access to Resource
 States -- Memento[0] pattern, but to include future states, as momentum paths.
 
 So the Attribution Layer's attributive designations emulate `Memento`+`Futures`
+(i.e., `timemap`, `timegate`, `from`, `until`, `to`) to sustain:
 
     Any evental mode is a set of incomparable computational decisions.
 
-Other patterns:
+By temporalizing relationships of account paths via `timegates` as the engine of
+application state TATEOAS. We observe the accounting relationship in the
+following equation:
+
+    Equity    =   Assets      -     Liabilities
+
+Abstracted, we get:
+
+    Present   =   Past
+
+Extended, we get:
+
+    Past      =   Present     =     Future
+    [assets]                        [negatives]
+    [liabilities]                   [positives]
+    [equities]
+
+Ijiri's predictive formula, applied:
+
+    Capital   =   Wealth      =     Budget
+                  [incomes]
+                  [expenses]
+
+Modeled to free markets of busess transactions, we get:
+
+    Wealth    =   Momentum    =     Force
+    [balances]    [profits]         [impulses]
+                  [losses]          [actions]
+
+Explained:
+
+1. Wealth - `[balance sheet statement]` first dimension or composition of
+   wealth, as assets, liabilities and owner's equity.
+2. Momentum - `[momentum, profit, loss statements]` second dimension or change
+   of magnitude of wealth, with items to be classified as income and expense
+   accounts.
+3. Force - `[force, impulse, action statements]` third dimension or capacity to
+   acquire new reality in the future (monotonic impulses)
+
+The relationship exists by the formalism, which we've shown such that it is not
+our hash function's (instrumentality does not corrupt the predictive data)
+collision which analogizes to collapse of the wave function, but rather our
+consciousness/brains which causes collapse. So _a relationship_ between future
+and current accounts must show a microeconomic mass that has a certain velocity or
+momentum to create new wealth.
+
+Other _econometric_ traits (LN) (as opposed to _sememetric_, implied as CL (H-Factor),
+modeled from Rhetorical Relations); _forms are the locus of instrumentality_:
 
     XIV
     Communicativity
