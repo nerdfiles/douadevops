@@ -179,10 +179,10 @@ not? Important concepts involve connectivity, but particularly the
 requirement of peer collection, and names that might exist, or
 have reference:
 
-    the deflationary model      (non-peer addresses     )  (let)
-    the existence check         (cached peer address    )  (var)
-    designates anything at all  (directed acyclic
-                                 graph of budget history)  (const)
+    the deflationary model      (non-peer addresses     )  (let)    (voice)
+    the existence check         (cached peer address    )  (var)    (given-without-givenness)
+    designates anything at all  (directed acyclic       )  (const)  (temporality)
+                                (graph of budget history)
 
 The third model essentially describes the `given-without-givenness`, such that
 we are overloading the meaning of terms in such a way that we create
@@ -313,6 +313,8 @@ with timegates, like in HTTP Framework for Time-Based Access to Resource
 States -- Memento[0] pattern, but to include future states, as momentum paths.
 
 So the Attribution Layer's attributive designations emulate `Memento`+`Futures`
+
+    Any evental mode is a set of incomparable computational decisions.
 
 Other patterns:
 
