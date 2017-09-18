@@ -125,13 +125,87 @@ that they bear to one another" then we want to describe changes in those
 relations as solvency proofs contribute to modal propositions, particularly
 over time. The temporality component contributes to the mechanism
 of anchoring media in accord with triple-entry pathing macros. However,
-we replace *it is possible that* and *it is necessary that* interpretations
-of the domain of discourse with *eventually trust* and *always trust*,
-then inherit extensions from TLA+, such as *trust infinitely often* and
-*eventually will always trust*, and by periodic table of information's
-common consensus protocols: *eventually could always trust*,
-*eventually must always trust*, *eventually require always trust*, all of
-SP, some solvency proof.
+we replace
+
+    it is possible that       <>
+    it is necessary that*     []
+
+operator interpretations of the domain of discourse with
+
+    eventually trust                   (solvency proof epistememicity)                <>
+    always trust                       (solvency proof safety; worst case)            []
+
+Like so:
+
+    <proof Alice controls 1337 BTC as of Nov 22nd 2016>
+
+says
+
+    eventually trust that Alice controls 1337 BTC as of Nov 22nd 2016
+
+Or:
+
+    [proof Alice controls 1337 BTC as of Nov 22nd 2016]
+
+says
+
+    always trust that Alice controls 1337 BTC as of Nov 22nd 2016
+
+Some nodes will contain ledgers that state, more simply:
+
+    Alice controls 1337 BTC as of Nov 22nd 2016
+
+We inherit extensions from TLA+, such as
+
+### Formal Input Specification
+
+    contingent a priori                rigid designator keys
+    trust infinitely often             (commitments always commit to another          -[]<>
+                                        commit)
+#### Reads
+
+    trust infinitely often that Alice controls 1337 BTC as of Nov 22nd 2016
+
+### Formal Input Specification
+
+    contingent a posteriori
+    eventually will always trust       (commitments eventually will always commit     []-[]
+                                        to another)
+#### Reads
+
+    eventually this node will always trust that Alice controls 1337 BTC as of Nov 22nd 2016
+
+By periodic table of information's common consensus protocols:
+
+### Formal Input Specification
+
+    a priori necessity
+    eventually could always trust      (proofs who contribute to a bloom filter       <>[]
+                                        immutable DataSet [dictatorship of
+                                        insufficiency, qualitative
+                                        indistinguishability, Kripkean
+                                        non-idempotency as natural kind forms?;
+                                        who say commit to other kinds of forms,
+                                        like search or filter features that are
+                                        P2P-based, so support for LN (link
+                                        support) that commit to other
+                                        commitments]; commitments eventually
+                                        could always commit to another commitment)
+#### Reads
+
+    eventually this node could always trust that Alice controls 1337 BTC as of Nov 22nd 2016
+
+### Formal Input Specification
+
+    a posteriori necessity             natural kind forms
+    eventually must always trust       (commitments must always commit to            [][]
+                                        another commitment; 1-1)
+
+#### Reads
+
+    eventually this node must always trust that Alice controls 1337 BTC as of Nov 22nd 2016
+
+for all SP, solvency proofs.
 
 ### Possible Worlds
 1. not subject to "far away country" paradoxes, or Pierre-isms
