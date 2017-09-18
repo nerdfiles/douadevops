@@ -80,8 +80,24 @@ Kripke talks "addresses" in causal chains (blockchains?):
 
 Interesting ontics:
 
-1. _same solvency proof_ in every possible world
-2. _different solvency proofs_ in different possible worlds
+1. _same solvency proof_ in every possible world `◻` (necessitation)
+2. _different solvency proofs_ in different possible worlds `◇` (eventual
+   consistency)
+
+### Argument Schema
+
+    1. It is possible that p.
+    2. Necessarily, if it is possible that the global ledger, G, exists,
+       then it is necessary that G exists.
+    3. Necessarily, if G exists, then it is not the case that p.
+    4. Therefore, it is not possible that G exists. [1–3]
+
+By the formalism:
+
+    1. ◇[p]
+    2. G(x) → ◻[G(x)]
+    3. ◻[G(x) → ~p]
+    4. ¬◇[G(x)]
 
 How is *contingent a priority* useful to cryptography? Saul Kripke's concept
 of rigid designation plays out wonderfuly to speak to Brian Cantwell Smith's
@@ -180,11 +196,11 @@ layers essential to the backbone of the discovery layer, and
 these layers factors are non-coincidental symmetrical thirds.
 
       3             4
-     2 2   []-[]   444  <>[]        1. Negative Introspection
-    1   1         55555             2. Convergent
-                 6666666            3. Brouwerian
-                  55555             4. Positive Introspection
-            [][]   444  -[]<>
+     2 2    ◻-◻    444  ◇◻       1. Negative Introspection
+    1   1         55555          2. Convergent
+                 6666666         3. Brouwerian
+                  55555          4. Positive Introspection
+             ◻◻    444  -◻◇
                     4
 
 Momentum paths would be stored efficiently and formally along these lines. If
@@ -195,13 +211,13 @@ over time. The temporality component contributes to the mechanism
 of anchoring media in accord with triple-entry pathing macros. However,
 we replace
 
-    it is possible that       <>
-    it is necessary that*     []
+    it is possible that       ◇
+    it is necessary that*     ◻
 
 operator interpretations of the domain of discourse with
 
-    eventually trust                   (solvency proof epistememicity)                <>
-    always trust                       (solvency proof safety; worst case)            []
+    eventually trust                   (solvency proof epistememicity)                ◇
+    always trust                       (solvency proof safety; worst case)            ◻
 
 Like so:
 
@@ -219,7 +235,7 @@ says
 
     always trust that Alice controls 1337 BTC as of Nov 22nd 2016
 
-Some nodes will contain ledgers that state, more simply:
+Some nodes will contain ledgers that state, more simply (without `◻` or `◇`):
 
     proof/Alice controls 1337 BTC as of Nov 22nd 2016
 
