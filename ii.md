@@ -3,6 +3,13 @@
 Review
 [diagram](https://gist.github.com/nerdfiles/cf1f6d2558083ae215b9786d2b85667f).
 
+One starting point is that Kripke has shown a number of problem cases for the
+Cluster Theory of Names. Initial baptisms explain some but not all cases. Is the
+trade off:
+
+    Any sufficiently sustainable economic plan is indistinguishable from
+    a projection of infinitely improbable profits
+
 ## A priori necessity
 
 Fixed by a contingent property.
