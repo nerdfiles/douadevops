@@ -596,12 +596,27 @@ Which is all basically:
 
 We do not doubt that tokens (de re), types (de dicto), or rules (de se) are
 integral to distributed computation protocols, but also the
-(phenomenological) in-dices (de te).
+(phenomenological) in-dices (de te) play an integral role. Our system is
+fundamentally structured not as agent-based, but (modal) proof-based,
+proof-theoretic versus model-theoretic, however there is no current analogy for
+the "quorum."
 
 We cannot merely stipulate a "quorum" on our values, and our system may contain
 more statements regarding disharmony of our acceptors than harmony. Our system
 may know more about it's own lack of negentropy, and this might be a causal
 factor in its rate of decline in self-similarity.
+
+We first need to take a step back: what is a token? what is a type? And how do
+these terms mean in this discourse that apparently weds epistemicity and
+ciphernominalism? Do you mean _crypto tokens_ or do you mean something like
+"commodified agency" or situational agency? The periodic table of information is
+a tokenless system: "token" in our sense picks out a substructural designator or
+natural kind within the space of propositions expressed within the "web of
+beliefs" of transactions. "Token" is a term of art for distinguishing aspects
+about the content of transaction, rather than the transaction of content. Taking
+a step back: the periodic table of information tells us the limitations of
+behaviorality of content itself, as its safety and liveness are guaranteed
+within the space of reconfigurable states of transmedia.
 
 <div>
 [0]: https://tools.ietf.org/html/rfc7089
