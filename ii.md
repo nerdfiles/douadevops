@@ -10,6 +10,54 @@ trade off:
     Any sufficiently sustainable economic plan is indistinguishable from
     a projection of infinitely improbable profits
 
+So, we have Proof-of-Work, which is ecologically unsustainable and does not
+solve the "geographic support" problem, unique to the U.S.'s Electoral Central
+Planning model. For Proof-of-Importance, review NEM's take:
+
+<blockquote>
+  <p>
+    In NEM, the cost of creating a block is negligible. To mitigate the
+    nothing-at-stake problem, NEM caps the change in block difficulty and
+    also limits the length of the chain that can be unwound during fork
+    resolution.
+  </p>
+  <div>
+    <cite>
+      NEM: Technical Reference
+    </cite>
+  </div>
+</blockquote>
+
+PoI plays on the existing PoS paradigm, only to focus on solving one of its
+limitations, namely the Nothing-At-Stake problem. Generally, either a
+stipulative gesture of the value of time-owned or relations-amassed determines
+one's "stake." This puts the problem such that a node's "state of being" (a Good
+Actor or a Bad Actor) is determined by a kind of stipulative gesture, or a
+consignment of agreement. Materialism itself is a brand about the status of
+is-ness and such roles as positivistic theories of reference. Capitalism, for
+instance, is a materialism in that its theory of reference is enabled by its
+theory of meaning which is subtended by the axiom of accumulation -- surplus
+value is meaningful in that it can successfully refer only to surplus value
+as its cause, as a complete description on which the future is dependent, and
+that labor value is ontologically dependent on surplus value by following from
+it of necessity.
+
+<blockquote>
+  <p>
+    The mode of production of material life conditions the general process of
+    social, political and intellectual life.
+  </p>
+</blockquote>
+
+Such a gesture at once coerces the right of revolution from the slave and places
+it at the purview of the bourgeoisie itinerant, who has no choice by the free
+market but to commit his voluntarism to the voluntarism of others. Labor value
+has no reference architecture beyond the scope of investments in its utility,
+however the question of utility for the sake of utility is at hand here. Are
+abstractions, which may be useful, for the sake of themselves in the ways that
+mundane processes *about* the world are intuitive comprehensions about the
+world.
+
 ## A priori necessity
 
 Fixed by a contingent property.
