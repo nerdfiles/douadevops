@@ -5,16 +5,31 @@ Review
 
 ## A priori necessity
 
-### Gödel Numbers
+Fixed by a contingent property.
+
+1. Gödel Numbers
+2. "heat is molecular motion"
 
 ## A posteriori necessity
 
 ### Natural Kinds
 
+Behave much closer to proper names than is normally supposed.
+
 1. Water is H2O
 2. Gold has atomic number 79
 3. Goldbach's Conjecture
 4. Fermat's Last Theorem
+
+### Periodic Table of Information
+
+                      CL
+                CR < ^CU <  CM
+          LE < ^LO < ^LT < ^LN <  LI
+    DI < ⟠RE < ⟠RO < ⟠RT < ⟠MA < ⟠CO < SE
+          VT < ⋎VP < ⋎VC < ⋎VB < ⋎VD
+                AF < ⋎AI <  AA
+                      AM
 
 ## Contingent a posteriori
 
