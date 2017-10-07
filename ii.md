@@ -65,6 +65,38 @@ Fixed by a contingent property.
 1. Gödel Numbers
 2. "heat is molecular motion"
 
+### Idea
+
+A JPEG can be injected with an HTML page. What is the JPEG, what does the page
+say? How can they say the same thing? Well, if we pass an HTML/CSS page into a
+PDF (https://github.com/alvarcarto/url-to-pdf-api) converter, we get a PDF. If
+the page is an image, we have an IMG to PDF system that only generates a PDF if
+the HTML/CSS is processed. So, you might have a QR code as an image that
+contains a solvency proof WOT-HTML page. The QR code, when scanned, would open a
+canonical URL; the QR code then becomes a kind of private key -- scanning it
+opens a URL, but actually having the file itself means you can upload your
+solvency proof to the URL opened to confirm it. So a merchant can hold up a QR
+code, a customer can scan it to open a web page. Now that the web page is open,
+it has become a "pot" that the original QR code bearer can see: a new
+transaction by the person sitting on the ephemeral POS page. The QR bearer's app lights up
+to indicate that someone has "scanned" their code, now a new entry exists in
+their solvency list. Once the transaction is complete, the bearer generates a
+new QR code with an updated solvency list. Throughout the day, then app locally
+joins the various QR codes of customers who have scanned but not purchased. The
+purchases are sent to the REST API for invoicing. Profit is modular transaction.
+
+1. QR code encoding as a "key image." Anyone can scan it to access a page, but
+   only the owner would know which solvency corresponds to which pages.
+2. Not number of linked persons, but linked QR code pages. Users are purchasing
+   from an identity that is expressed by a steganographic QR code. One phone
+   scans another phone for a solvency proof, essentially. (But it must be
+   model-theoretic, not proof-theoretic.)
+3. Data Lakes for merchants:
+   http://101.datascience.community/2014/03/12/what-is-a-data-lake/
+4. Useful ideas: Ephemeral POS, Epistatic Pulse Messaging, Tip Marshalling,
+   Generator Playgrounds (phone-based AR systems that spontaneously emerge from
+   self-similarity of protocol histories of devices within geographic proximity)
+
 ## A posteriori necessity
 
 ### Natural Kinds
