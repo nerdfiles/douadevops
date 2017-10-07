@@ -27,9 +27,22 @@ Behave much closer to proper names than is normally supposed.
                 CR < ^CU <  CM
           LE < ^LO < ^LT < ^LN <  LI
     DI < ⟠RE < ⟠RO < ⟠RT < ⟠MA < ⟠CO < SE
-          VT < ⋎VP < ⋎VC < ⋎VB < ⋎VD
-                AF < ⋎AI <  AA
+          VT < ⋎VP < ⋎VC < ⋎VB <  VD
+                AA < ⋎AI <  AF
                       AM
+
+1. Recoverable Link Embeds and Value Translations...
+2. Recoveries (Reconfigurable state machines built from a sequence of stoppable
+   state machines, which aggregate into the Discovery factor; Lamport "Stoppable
+   Paxos")
+3. Serializations/changes aggregate into Confinement in the same manner as Confinement
+   aggregates into Link Idempotents and Value Diminutions/Prunes
+4. Link Idempotents aggregate into Non-idempotents
+5. LNs into LT
+6. LTs into LO (https://link.springer.com/chapter/10.1007/978-3-319-06773-5_81/fulltext.html;
+   form templates will/will always contain solvency proofs, or substructural solvency proofs)
+7. LOs into LEs (http://lcamtuf.coredump.cx/squirrel/; API generates
+   Hyperreceipt like API-to-PDF with embedded solvency)
 
 ## Contingent a posteriori
 
