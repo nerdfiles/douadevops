@@ -550,6 +550,59 @@ CCP shapes, standards, norms, problems, gestures, contours, etc.; mapping TBD.
     V                   (TBD)
     Virtuality          (TBD)
 
+## Relations
+
+HLA Hart argues that 'rules make the sovereign', contra Hart, who argues that the
+'sovereign makes all of the rules'. We should better ask: Does the sovereign
+follow from the rules, or do the rules follow from the sovereign? In Bitcoin,
+hashes depend on previous hashes, and in fact, this is the point of the hashing
+algorithm: to hide its result from its inputs. But in Bitcoin's case, they are
+desperately optimizing rather than building a truly alchemical system of powers.
+Since they have committed all to the burden of the massive ledger, they must
+aggressively compress and optimize those processes which engender larger blocks,
+and attempt at pre-hooking block generation with re-routing mechanisms. It's all
+very ad hoc. If the rules are in constant flux, whence cometh the sovereign?
+
+Zooko's triangle, Paxos, etc. all play on the idea of tripartite spatiality and
+unilateral temporality (3+1-dimensionality). It is best to think of time itself
+as _bi-temporal_. There is no _arrow of time_ since there is no special place in
+space for such an arrow to begin. . There is no _arrow of time_ since there is
+no special place in space for such an arrow to begin. . There is no _arrow of
+time_ since there is no special place in space for such an arrow to begin. .
+There is no _arrow of time_ since there is no special place in space for such an
+arrow to begin unless its destination is exactly that point of its origin, since
+a line drawn at all would presuppose some intention behind the discontiguous
+series of points infinitesimally distict at the atomic level. It is our
+recognition of the demonstrata: _rules make the name_. Therefore, rules
+determine the directionality of the arrow of time, whatever the arrow of time
+amounts to at some local concern for the rules.
+
+    Leaders     Differential propose commands  initiators                "rule of change"       goals      force
+    Acceptors   Continuous   choose  commands  adjudicators/interpreters "rule of adjudication" values     impulse
+    Learners    Dialectical  weight  command   awareness                 ???                    power      action
+    ???         Generic      ???     commands  recognition               "rule of recognition"  authority  momentum
+
+Typically the triangular trustless diagram of "currency" amounts to basically:
+
+    diversity-merit-security
+
+What is this model good for? Perhaps nothing:
+
+    meaning-decentralized-secure
+
+Which is all basically:
+
+    token-type-rules
+
+We do not doubt that tokens (de re), types (de dicto), or rules (de se) are
+integral to distributed computation protocols, but also the
+(phenomenological) in-dices (de te).
+
+We cannot merely stipulate a "quorum" on our values, and our system may contain
+more statements regarding disharmony of our acceptors than harmony. Our system
+may know more about it's own lack of negentropy, and this might be a causal
+factor in its rate of decline in self-similarity.
+
 <div>
 [0]: https://tools.ietf.org/html/rfc7089
 </div>
