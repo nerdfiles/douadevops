@@ -3,7 +3,7 @@
 ## personal articles
 
 1. [Articles](https://github.com/nerdfiles/douadevops/tree/master/articles)
-2. [Is Trustlessness Terminating Valid Agreement?](https://bitco.in/forum/threads/is-trustlessness-terminating-valid-agreement.1225/)  
+2. [Is Trustlessness Terminating Valid Agreement?](https://bitco.in/forum/threads/is-trustlessness-terminating-valid-agreement.1225/)
    This is a spoof article that recapitulates the philosophical problems of formal epistemology from the problem space of consensus protocols axioms. In it I intentionally appropriate an historic piece of literature to affix the informational watermarkings of academia to a prenormalized historicity of the multitudes.
 3. [File Microservices and Federated, Available and Reliable Reporting Storage for a Trustless Co-located Environment](https://gitlab.com/snippets/28906)
 
@@ -19,6 +19,21 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 4. personally crafted [Functional Requirements KPI Matrix](https://docs.google.com/spreadsheets/d/1XTCTGX50pa9I0LjTmwItx8iSxSbGMMXLFoXH9O5r5RQ/edit?usp=sharing)
 5. found in the wild: [start-up cost spreadsheet](https://docs.google.com/spreadsheets/d/1Z5p694QeGmvAotDcG6N7szwvgY7k5GOu8wRzEZhEcpE/edit?usp=sharing)
 
+## visual planning
+
+1. node-red
+
+## distributed semaphore
+
+1. consul
+2. clusterluck
+
+## project management and repos
+
+1. bitbucket
+2. github
+3. gitlab
+
 ## system and app perf and avail monitoring
 
 1. [node-monitor](https://github.com/lorenwest/node-monitor)
@@ -28,7 +43,7 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 ## configuration management
 
 1. [`puppet`](https://forge.puppet.com/)+`grunt`
-2. [confidence](https://github.com/hapijs/confidence)  
+2. [confidence](https://github.com/hapijs/confidence)
    Creative JSON templates to filter Peer Controllers in cjdns.
 3. interactive commandline with [vorpal](http://vorpal.js.org/)
 
@@ -63,11 +78,11 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 
 ## local virtual envs
 
-1. [`virtualenv`](https://gist.github.com/bbengfort/246bc820e76b48f71df7):  
+1. [`virtualenv`](https://gist.github.com/bbengfort/246bc820e76b48f71df7):
    Be sure to set up `export $WORKON_HOME=$SOME_VIR_DIR`.
-2. [`pyenv`](https://github.com/yyuu/pyenv):  
+2. [`pyenv`](https://github.com/yyuu/pyenv):
    Fine on Ubuntu; often disappointing on OS X.
-3. [`rbenv`](https://github.com/rbenv/rbenv#basic-github-checkout):  
+3. [`rbenv`](https://github.com/rbenv/rbenv#basic-github-checkout):
    Works well with `compass`.
 4. [`nodeenv`](https://github.com/ekalinin/nodeenv)
 
@@ -192,6 +207,32 @@ See [Topics](https://github.com/nerdfiles/douadevops/tree/master/topics.md).
 1. mysql
 2. postgresql
 3. [cockroach](https://github.com/cockroachdb/cockroach)
+4. massive
+
+## ciphers
+
+1. https://github.com/OpenGenus/cosmos/blob/master/code/cryptography/src/vigenere_cipher/vigenere_cipher.js
+2. http://ciphersaber.gurus.com
+3. (pgp) IDEA http://www.quadibloc.com/crypto/co040302.htm
+4. (bitcoin) AES
+5. Blowfish
+6. DES
+7. Twofish
+8. Serpent
+9. Diceware
+10. DSA
+11. ElGamal
+12. RSA
+13. Skipjack
+14. RC5
+15. RC4
+16. RC2
+17. crypt
+18. ROT13
+
+## data layer
+
+1. lovefield
 
 ## continuous deployment and release management
 
