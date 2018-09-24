@@ -1,0 +1,883 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#"
+     xml:base="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#after -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#after"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#before -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#before"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#contains -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#contains"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#containsDate -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#containsDate"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#containsDateStrict -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#containsDateStrict"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#contemporaryOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#contemporaryOf"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#disjunct -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#disjunct"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#during -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#during"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#equals -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#equals"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#finishedBy -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#finishedBy"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#finishes -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#finishes"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#forged -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#forged"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#isForgedBeforeTerminationOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#isForgedBeforeTerminationOf"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#isHeadToHeadWith -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#isHeadToHeadWith"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#isOlderThan -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#isOlderThan"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#isSurvivedBy -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#isSurvivedBy"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#isTailToTailWith -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#isTailToTailWith"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#isYoungerThan -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#isYoungerThan"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#lte -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#lte"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#meets -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#meets"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#metBy -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#metBy"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#nothing -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#nothing"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#older -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#older"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#overlappedBy -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#overlappedBy"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#overlaps -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#overlaps"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#overlapsEnd -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#overlapsEnd"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#overlapsStart -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#overlapsStart"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#split -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#split"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#startedBy -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#startedBy"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#starts -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#starts"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#survivedByContemporaryOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#survivedByContemporaryOf"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#survives -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#survives"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#survivingContemporaryOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#survivingContemporaryOf"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#terminatedAfterForgeOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#terminatedAfterForgeOf"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#within -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#within"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#younger -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#younger"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#youngerContemporaryOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#youngerContemporaryOf"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#conversionOffset -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#conversionOffset"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#convertToBase -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#convertToBase"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#decimalValue -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#decimalValue"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#epoch -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#epoch"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#latitude -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#latitude"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#localDate -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#localDate"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#localDateTime -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#localDateTime"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#localTime -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#localTime"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#longitude -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#longitude"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#name -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#name"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#openDate -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#openDate"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#openDateTime -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#openDateTime"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#openTime -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#openTime"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#preferredDate -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#preferredDate"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#preferredDateTime -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#preferredDateTime"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#preferredTime -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#preferredTime"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#sequence -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#sequence"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#uniqueText -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#uniqueText"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#A_posteriori -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#A_posteriori">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Knowledge"/>
+        <rdfs:comment>A relationship existing for a mode of a scene or situation.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#A_priori -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#A_priori">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Knowledge"/>
+        <rdfs:comment>A relationship existing for a mode of a scene or situation.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Ability -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Ability"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Acceptance -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Acceptance">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Test"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Alief -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Alief"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Belief -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Belief"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Card -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Card">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Task"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Certainty -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Certainty">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Belief"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Confirmation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Confirmation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Task"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Contingency -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Contingency">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#State"/>
+        <rdfs:comment>A relationship existing for a mode of a scene or situation.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Contingent_Event -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Contingent_Event">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Event"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Conversation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Conversation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Task"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Cotemporaneous_Event -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Cotemporaneous_Event">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Event"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Discourse-Relation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Discourse-Relation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Meaning-Event"/>
+        <rdfs:comment>A relationship existing for a mode of sense.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#End-to-End -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#End-to-End">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Test"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Epic -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Epic">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Theme"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Epistemological_Event -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Epistemological_Event">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Event"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Event -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Event">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Time_Interval"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Freedom -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Freedom">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Ability"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Historical_Event -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Historical_Event">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Event"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Impossibility -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Impossibility">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#State"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Improbability -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Improbability">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Belief"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Independence -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Independence">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Ability"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Initiative -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Initiative">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Task"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Integration -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Integration">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Test"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Intertemporal_Event -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Intertemporal_Event">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Event"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Investment_Event -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Investment_Event">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Event"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Knowledge -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Knowledge"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Meaning-Event -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Meaning-Event"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Methodological_Event -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Methodological_Event">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Event"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Mode -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Mode"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Mythological_Event -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Mythological_Event">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Event"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Narratological_Event -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Narratological_Event">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Event"/>
+        <rdfs:comment>A relationship existing for a known context change potential of a discourse structure.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Natural-Kind -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Natural-Kind">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Meaning-Event"/>
+        <rdfs:comment>A rigid designator (&apos;n is m&apos;; &apos;n of m&apos;; etc.) existing from a black swan event.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Necessity -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Necessity">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#State"/>
+        <rdfs:comment>A relationship existing for a mode of a scene or situation.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Obligation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Obligation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Mode"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Ontological_Event -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Ontological_Event">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Event"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Optionality -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Optionality">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Mode"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Permission -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Permission">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Mode"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Phenomenological_Event -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Phenomenological_Event">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Event"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Physical_Event -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Physical_Event">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Event"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#PipelineUnit -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#PipelineUnit">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Test"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Planned_Event -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Planned_Event">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Event"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Possibility -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Possibility">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#State"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Powerlessness -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Powerlessness">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Ability"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Probability -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Probability">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Belief"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Prohibition -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Prohibition">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Mode"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Project -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Project">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Task"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Quine -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Quine">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Event"/>
+        <rdfs:comment>Something happening over some period of quine (black swan event), often characterized as some kind of activity being carried out by some person, organization, or software application.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Regression -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Regression">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Test"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Scheduled_Task -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Scheduled_Task">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Task"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Sociological_Event -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Sociological_Event">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Event"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#State -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#State"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Story -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Story">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Epic"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Submission -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Submission">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Ability"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Subtask -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Subtask">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Task"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Task -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Task">
+        <owl:equivalentClass rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Work"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Event"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Test -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Test">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Event"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Theme -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Theme">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Initiative"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Time_Interval -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Time_Interval"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Uncertainty -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Uncertainty">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Belief"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Unit -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Unit">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Test"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Work -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Work">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Task"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Workflow -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Workflow">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Task"/>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.2.6.20160910-2108) https://github.com/owlcs/owlapi -->
+
