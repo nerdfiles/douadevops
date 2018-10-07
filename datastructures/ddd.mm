@@ -72,9 +72,10 @@
             <node TEXT="setup.js"/>
         </node>
         <node TEXT="pattern/" POSITION="left">
-            <node TEXT="user/"/>
-            <node TEXT="account/"/>
             <node TEXT="interface.scss"/>
+            <node TEXT="atom/"/>
+            <node TEXT="molecule/"/>
+            <node TEXT="organelle/"/>
         </node>
         <node ID="ID_7A096096-50D0-4B0B-8B86-D13AECEF83DA" TEXT="config/" POSITION="left">
             <node TEXT="environments/"/>
@@ -86,5 +87,9 @@
         <node TEXT=".travel.yml" POSITION="left"/>
         <node TEXT=".sequelizerc" POSITION="left"/>
         <node TEXT=".env-sample" POSITION="left"/>
+        <node TEXT="tasks/" POSITION="left">
+            <node TEXT="workflows"/>
+            <node TEXT="basics"/>
+        </node>
     </node>
 </map>
