@@ -32,12 +32,27 @@
             </node>
         </node>
         <node ID="ID_FA971F13-3CFC-4DB9-BABD-5DF2E69B18A6" TEXT="Alerts">
-            <node ID="ID_3660AD16-12ED-40AB-87E0-97CFB29F6194" TEXT="import { AlertController } from 'ionic-angular';">
+            <node ID="ID_3660AD16-12ED-40AB-87E0-97CFB29F6194" TEXT="import { ActionSheetController } from 'ionic-angular';
+
+export class MyPage {
+
+  constructor(public actionSheetCtrl: ActionSheetController) { }
+
+  presentActionSheet() {
+    const actionSheet = this.actionSheetCtrl.create({
+      title: 'Modify your album',
+      buttons: [
+        {
+          text: 'Destructive',           role: 'destructive',           handler: () =&gt; {             console.log('Destructive clicked');           }         },{           text: 'Archive',           handler: () =&gt; {             console.log('Archive clicked');           }         },{           text: 'Cancel',           role: 'cancel',           handler: () =&gt; {             console.log('Cancel clicked');           }         }
+      ]     });
+    actionSheet.present();
+  }
+}">
                 <font NAME="Anonymous Pro" SIZE="14"/>
             </node>
         </node>
         <node ID="ID_9D6FFD01-4EDB-4C99-95B0-0779E3E89B90" TEXT="Action Sheets">
-            <node ID="ID_12F04FBC-3B9B-4C73-8BAF-8B8AED92D197" TEXT="import { ActionSheetController } from 'ionic-angular';">
+            <node ID="ID_12F04FBC-3B9B-4C73-8BAF-8B8AED92D197" TEXT="import { AlertController } from 'ionic-angular';  export class MyPage {    constructor(public alertCtrl: AlertController) { }    showAlert() {     const alert = this.alertCtrl.create({       title: 'New Friend!',       subTitle: 'Your friend, Obi wan Kenobi, just accepted your friend request!',       buttons: ['OK']     });     alert.present();   } }">
                 <font NAME="Anonymous Pro" SIZE="14"/>
             </node>
         </node>

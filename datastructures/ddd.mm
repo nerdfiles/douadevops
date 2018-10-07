@@ -58,6 +58,8 @@
         </node>
         <node ID="ID_427FB5F2-C3C4-4BFF-AD28-791CF08C661D" TEXT="public/" POSITION="left">
             <node TEXT="docs/"/>
+            <node TEXT="mocks/"/>
+            <node TEXT="index.html"/>
         </node>
         <node ID="ID_0E982411-5CEC-4E04-BD8D-5C854998C125" TEXT="logs/" POSITION="left"/>
         <node ID="ID_7EDEBB43-2DCE-434A-87C0-EF78C6CCCD56" TEXT="Procfile" POSITION="left"/>

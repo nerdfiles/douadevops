@@ -405,9 +405,21 @@
     
 
 
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Account -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Account"/>
+    
+
+
     <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Alief -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Alief"/>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Balance -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Balance"/>
     
 
 
@@ -429,6 +441,62 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Certainty">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Belief"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Changed_Account_Event -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Changed_Account_Event">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Event"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Changed_Discourse_Relation_Event -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Changed_Discourse_Relation_Event">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Narratological_Event"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Changed_Entity_Event -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Changed_Entity_Event">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Event"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Changed_From_Date -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Changed_From_Date">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Event"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Changed_Record_From_Date -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Changed_Record_From_Date">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Event"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Changed_Record_Until_Date -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Changed_Record_Until_Date">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Event"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Changed_Until_Date -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Changed_Until_Date">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Event"/>
     </owl:Class>
     
 
@@ -470,6 +538,14 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Cotemporaneous_Event">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Event"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Date_Instant -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Date_Instant">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Time_Instant"/>
     </owl:Class>
     
 
@@ -769,6 +845,14 @@
     
 
 
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Saved_Entity_Event -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Saved_Entity_Event">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Event"/>
+    </owl:Class>
+    
+
+
     <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Scheduled_Task -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Scheduled_Task">
@@ -840,6 +924,12 @@
     
 
 
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Time_Instant -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Time_Instant"/>
+    
+
+
     <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Time_Interval -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Time_Interval"/>
@@ -858,6 +948,22 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Unit">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Test"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Updated_Process_Event -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Updated_Process_Event">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Event"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Updated_Relation_Event -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Updated_Relation_Event">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/nerdfiles/ontologies/2018/8/untitled-ontology-9#Event"/>
     </owl:Class>
     
 
