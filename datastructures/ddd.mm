@@ -78,6 +78,10 @@
             <node TEXT="atom/"/>
             <node TEXT="molecule/"/>
             <node TEXT="organelle/"/>
+            <node TEXT="sys/"/>
+            <node TEXT="tissue/"/>
+            <node TEXT="organ/"/>
+            <node TEXT="cell/"/>
         </node>
         <node ID="ID_7A096096-50D0-4B0B-8B86-D13AECEF83DA" TEXT="config/" POSITION="left">
             <node TEXT="environments/"/>
